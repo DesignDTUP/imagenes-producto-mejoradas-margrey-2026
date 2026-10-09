@@ -24,5 +24,31 @@
     ],
     "review": "Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.",
     "inspected": true
+  },
+  {
+    "reference": "Alumbra 1L.png",
+    "product": "Alumbra",
+    "presentation": "1 L",
+    "folder": "Alumbra/1L",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/papercut"
+    ],
+    "review": "Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de etiqueta pendiente por variaciones tipográficas y gráficas. Principal sin decoraciones exteriores, fondo exacto #FFFFFF pendiente de validación/corrección.",
+    "inspected": true
+  },
+  {
+    "reference": "Aluminox 1L.png",
+    "product": "Aluminiox",
+    "presentation": "1 L",
+    "folder": "Aluminiox/1L",
+    "styles": [
+      "/ecommerce",
+      "/colorblock",
+      "/papercut"
+    ],
+    "review": "Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación.",
+    "inspected": true
   }
 ]

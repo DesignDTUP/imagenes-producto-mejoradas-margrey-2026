@@ -9,3 +9,11 @@ Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por v
 ## Afloja Fácil — 296 mL / 10 oz
 
 Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.
+
+## Alumbra — 1 L
+
+Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de etiqueta pendiente por variaciones tipográficas y gráficas. Principal sin decoraciones exteriores, fondo exacto #FFFFFF pendiente de validación/corrección.
+
+## Aluminiox — 1 L
+
+Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación.
