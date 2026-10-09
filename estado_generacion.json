@@ -1,0 +1,798 @@
+{
+  "proyecto": "Imágenes Producto mejoradas MARGREY 2026",
+  "estado": "en proceso",
+  "archivos_encontrados": 120,
+  "referencias": 61,
+  "archivos_auxiliares_macos": 59,
+  "portadas_01_Portada": 0,
+  "imagenes_generadas": 3,
+  "imagenes_publicadas_verificadas": 0,
+  "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
+  "pendientes_generacion": [
+    {
+      "referencia": "Afloja Fácil.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Afloja Fácil.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Afloja Fácil.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Alumbra 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Alumbra 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Alumbra 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Aluminox 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Aluminox 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Aluminox 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Aroma Vainilla 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Aroma Vainilla 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Aroma Vainilla 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Auto Brillo S Spray 473ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Auto Brillo S Spray 473ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Auto Brillo S Spray 473ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Autobrillo A 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Autobrillo A 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Autobrillo A 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Autobrillo A 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Autobrillo A 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Autobrillo A 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Autobrillo Atomizable 600ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Autobrillo Atomizable 600ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Autobrillo Atomizable 600ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Autobrillo S Original 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Autobrillo S Original 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Autobrillo S Original 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Autobrillo S Original 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Autobrillo S Original 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Autobrillo S Original 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Blister Crema y Repelente.jpg",
+      "imagen": 1
+    },
+    {
+      "referencia": "Blister Crema y Repelente.jpg",
+      "imagen": 2
+    },
+    {
+      "referencia": "Blister Crema y Repelente.jpg",
+      "imagen": 3
+    },
+    {
+      "referencia": "Brillo Platinum 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Brillo Platinum 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Brillo Platinum 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Car Wash 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Car Wash 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Car Wash 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Car Wash Galón 3.8L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Car Wash Galón 3.8L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Car Wash Galón 3.8L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cera Liquida 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cera Liquida 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cera Liquida 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cera Rápida 600ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cera Rápida 600ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cera Rápida 600ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cool Grey (2).png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cool Grey (2).png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cool Grey (2).png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cool Grey Banana.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cool Grey Banana.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cool Grey Banana.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cool Grey Carro Nuevo.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cool Grey Carro Nuevo.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cool Grey Carro Nuevo.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cool Grey Cereza.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cool Grey Cereza.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cool Grey Cereza.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Cool Grey.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Cool Grey.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Cool Grey.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Crema Quita Gotas 300ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Crema Quita Gotas 300ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Crema Quita Gotas 300ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Desgramot 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Desgramot 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Desgramot 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Esponjas Blancas.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Esponjas Blancas.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Esponjas Blancas.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Esponjas Rojas.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Esponjas Rojas.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Esponjas Rojas.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Fin Gras 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Fin Gras 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Fin Gras 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Fino Touch 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Fino Touch 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Fino Touch 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Gel Azul 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Gel Azul 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Gel Azul 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Gras Fin 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Gras Fin 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Gras Fin 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Leather Clean 250ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Leather Clean 250ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Leather Clean 250ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Lubricante 60ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Lubricante 60ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Lubricante 60ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Mano Clean 1kg.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Mano Clean 1kg.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Mano Clean 1kg.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Microfibra.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Microfibra.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Microfibra.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Oil Restorer 50ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Oil Restorer 50ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Oil Restorer 50ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Plastimagic 100g.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Plastimagic 100g.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Plastimagic 100g.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Plastimagic 200g.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Plastimagic 200g.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Plastimagic 200g.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Polish Blanco 300ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Polish Blanco 300ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Polish Blanco 300ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Polish Rojo 300ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Polish Rojo 300ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Polish Rojo 300ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Polish Rosa 300ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Polish Rosa 300ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Polish Rosa 300ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "imagen": 1
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "imagen": 2
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "imagen": 3
+    },
+    {
+      "referencia": "Pulimento 3 en 1 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Pulimento 3 en 1 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Pulimento 3 en 1 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Pulimento Azul 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Pulimento Azul 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Pulimento Azul 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Pulimento Blanco 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Pulimento Blanco 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Pulimento Blanco 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Pulimento Rosa 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Pulimento Rosa 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Pulimento Rosa 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Pum Shampoo.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Pum Shampoo.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Pum Shampoo.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Qiuta Gotas 500ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Qiuta Gotas 500ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Qiuta Gotas 500ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Quita Goma 130ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Quita Goma 130ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Quita Goma 130ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Quita Gotas 130ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Quita Gotas 130ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Quita Gotas 130ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Repelente de Agua 130ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Repelente de Agua 130ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Repelente de Agua 130ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Restaurador de Faros 130ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Restaurador de Faros 130ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Restaurador de Faros 130ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Restaurador de Faros 250ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Restaurador de Faros 250ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Restaurador de Faros 250ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Rines Motores y Llantas 600ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Rines Motores y Llantas 600ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Rines Motores y Llantas 600ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Shampoo Cera Platinum 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Shampoo Cera Platinum 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Shampoo Cera Platinum 1L.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Silicrem 1kg.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Silicrem 1kg.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Silicrem 1kg.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Silicrem 300ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Silicrem 300ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Silicrem 300ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Super Corte 250ml.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Super Corte 250ml.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Super Corte 250ml.png",
+      "imagen": 3
+    },
+    {
+      "referencia": "Wiper Cleaner 1L.png",
+      "imagen": 1
+    },
+    {
+      "referencia": "Wiper Cleaner 1L.png",
+      "imagen": 2
+    },
+    {
+      "referencia": "Wiper Cleaner 1L.png",
+      "imagen": 3
+    }
+  ],
+  "referencias_pendientes_de_clasificar": [
+    "Abrillantador QM 500ml.png",
+    "Afloja Fácil.png",
+    "Alumbra 1L.png",
+    "Aluminox 1L.png",
+    "Aroma Vainilla 1L.png",
+    "Auto Brillo S Spray 473ml.png",
+    "Autobrillo A 1L.png",
+    "Autobrillo A 500ml.png",
+    "Autobrillo Atomizable 600ml.png",
+    "Autobrillo S Original 1L.png",
+    "Autobrillo S Original 500ml.png",
+    "Blister Crema y Repelente.jpg",
+    "Brillo Platinum 1L.png",
+    "Car Wash 1L.png",
+    "Car Wash Galón 3.8L.png",
+    "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+    "Cera en Pasta.png",
+    "Cera Liquida 500ml.png",
+    "Cera Rápida 600ml.png",
+    "Cool Grey (2).png",
+    "Cool Grey Banana.png",
+    "Cool Grey Carro Nuevo.png",
+    "Cool Grey Cereza.png",
+    "Cool Grey.png",
+    "Crema Quita Gotas 300ml.png",
+    "Desgramot 1L.png",
+    "Esponjas Blancas.png",
+    "Esponjas Rojas.png",
+    "Fin Gras 1L.png",
+    "Fino Touch 500ml.png",
+    "Gel Azul 500ml.png",
+    "Gras Fin 1L.png",
+    "Leather Clean 250ml.png",
+    "Lubricante 60ml.png",
+    "Mano Clean 1kg.png",
+    "Microfibra.png",
+    "Oil Restorer 50ml.png",
+    "Plastimagic 100g.png",
+    "Plastimagic 200g.png",
+    "Polish Blanco 300ml.png",
+    "Polish Rojo 300ml.png",
+    "Polish Rosa 300ml.png",
+    "prelavador.jpg",
+    "Pulimento 3 en 1 500ml.png",
+    "Pulimento Azul 500ml.png",
+    "Pulimento Blanco 500ml.png",
+    "Pulimento Rosa 500ml.png",
+    "Pum Shampoo.png",
+    "Qiuta Gotas 500ml.png",
+    "Quita Goma 130ml.png",
+    "Quita Gotas 130ml.png",
+    "Repelente de Agua 130ml.png",
+    "Restaurador de Faros 130ml.png",
+    "Restaurador de Faros 250ml.png",
+    "Rines Motores y Llantas 600ml.png",
+    "Shampoo Cera Platinum 1L.png",
+    "shampoo con cera.png",
+    "Silicrem 1kg.png",
+    "Silicrem 300ml.png",
+    "Super Corte 250ml.png",
+    "Wiper Cleaner 1L.png"
+  ],
+  "imagenes_objetivo": 183,
+  "portadas_con_tres_imagenes": 1
+}
