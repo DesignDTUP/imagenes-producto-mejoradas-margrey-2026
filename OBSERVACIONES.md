@@ -33,3 +33,11 @@ Identidad y presentación coinciden. Producto completo en tres imágenes; estilo
 ## Brillantador — 500 mL
 
 Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Autobrillo Atomizable — 600 mL
+
+Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visible, estilos diferenciados. Revisión de etiqueta pendiente por detalles pequeños y dibujo impreso. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Autobrillo S Original — 1 L (según archivo; etiqueta multipresentación)
+
+Botella transparente de contenido azul y tapa negra conservadas. La etiqueta enumera 1L, 5L y 25L sin selección inequívoca; se mantiene intacta esa línea. Producto completo y estilos diferenciados. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.

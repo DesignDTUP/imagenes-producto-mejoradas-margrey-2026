@@ -102,5 +102,31 @@
     ],
     "review": "Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
     "inspected": true
+  },
+  {
+    "reference": "Autobrillo Atomizable 600ml.png",
+    "product": "Autobrillo Atomizable",
+    "presentation": "600 mL",
+    "folder": "Autobrillo Atomizable/600ml",
+    "styles": [
+      "/ecommerce",
+      "/gradient",
+      "/lighttrails"
+    ],
+    "review": "Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visible, estilos diferenciados. Revisión de etiqueta pendiente por detalles pequeños y dibujo impreso. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
+    "inspected": true
+  },
+  {
+    "reference": "Autobrillo S Original 1L.png",
+    "product": "Autobrillo S Original",
+    "presentation": "1 L (según archivo; etiqueta multipresentación)",
+    "folder": "Autobrillo S Original/1L",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/monochrome"
+    ],
+    "review": "Botella transparente de contenido azul y tapa negra conservadas. La etiqueta enumera 1L, 5L y 25L sin selección inequívoca; se mantiene intacta esa línea. Producto completo y estilos diferenciados. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
+    "inspected": true
   }
 ]
