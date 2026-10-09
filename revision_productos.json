@@ -1,0 +1,28 @@
+[
+  {
+    "reference": "Abrillantador QM 500ml.png",
+    "product": "Abrillantador de Pintura QM",
+    "presentation": "500 mL",
+    "folder": "Abrillantador QM/500ml",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/blackluxury"
+    ],
+    "review": "Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.",
+    "inspected": true
+  },
+  {
+    "reference": "Afloja Fácil.png",
+    "product": "Afloja Fácil",
+    "presentation": "296 mL / 10 oz",
+    "folder": "Afloja Fácil/296ml",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/lighttrails"
+    ],
+    "review": "Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.",
+    "inspected": true
+  }
+]

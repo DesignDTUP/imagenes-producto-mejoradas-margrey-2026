@@ -1,5 +1,11 @@
 # Observaciones
 
-- El usuario confirmó que las 61 fotografías cuentan como portadas pese a no llamarse 01_Portada.
-- El origen es una carpeta plana; la jerarquía de salida se establece a partir de la inspección de cada producto.
-- Abrillantador QM 500ml: identidad y presentación coinciden con la referencia. Las tres versiones muestran el producto completo y los estilos son distintos. Se observan pequeñas diferencias en la geometría y composición tipográfica de la etiqueta; **revisión de etiqueta pendiente** en las tres. La principal no se declara aprobada para ecommerce. Fondo visualmente blanco; pureza exacta pendiente de comprobación.
+El usuario confirmó las 61 fotografías como portadas. Se excluyen 59 archivos auxiliares de macOS. Los originales no se modifican. El origen es plano; la jerarquía se establece al inspeccionar cada referencia.
+
+## Abrillantador de Pintura QM — 500 mL
+
+Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.
+
+## Afloja Fácil — 296 mL / 10 oz
+
+Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.

@@ -5,734 +5,1074 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 3,
-  "imagenes_publicadas_verificadas": 0,
+  "imagenes_generadas": 6,
+  "imagenes_publicadas_verificadas": 3,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
     {
-      "referencia": "Afloja Fácil.png",
-      "imagen": 1
-    },
-    {
-      "referencia": "Afloja Fácil.png",
-      "imagen": 2
-    },
-    {
-      "referencia": "Afloja Fácil.png",
-      "imagen": 3
+      "referencia": "Alumbra 1L.png",
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Alumbra 1L.png",
-      "imagen": 1
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Alumbra 1L.png",
-      "imagen": 2
-    },
-    {
-      "referencia": "Alumbra 1L.png",
-      "imagen": 3
-    },
-    {
-      "referencia": "Aluminox 1L.png",
-      "imagen": 1
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Aluminox 1L.png",
-      "imagen": 2
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Aluminox 1L.png",
-      "imagen": 3
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "Aluminox 1L.png",
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Aroma Vainilla 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Aroma Vainilla 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Aroma Vainilla 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Auto Brillo S Spray 473ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Auto Brillo S Spray 473ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Auto Brillo S Spray 473ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo A 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo A 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo A 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo A 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo A 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo A 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo Atomizable 600ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo Atomizable 600ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo Atomizable 600ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo S Original 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo S Original 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo S Original 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo S Original 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo S Original 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Autobrillo S Original 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Blister Crema y Repelente.jpg",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Blister Crema y Repelente.jpg",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Blister Crema y Repelente.jpg",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Brillo Platinum 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Brillo Platinum 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Brillo Platinum 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Car Wash 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Car Wash 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Car Wash 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Car Wash Galón 3.8L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Car Wash Galón 3.8L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Car Wash Galón 3.8L.png",
-      "imagen": 3
-    },
-    {
-      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-      "imagen": 1
-    },
-    {
-      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-      "imagen": 2
-    },
-    {
-      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-      "imagen": 3
-    },
-    {
-      "referencia": "Cera en Pasta.png",
-      "imagen": 1
-    },
-    {
-      "referencia": "Cera en Pasta.png",
-      "imagen": 2
-    },
-    {
-      "referencia": "Cera en Pasta.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cera Liquida 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cera Liquida 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cera Liquida 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cera Rápida 600ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cera Rápida 600ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cera Rápida 600ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey (2).png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey (2).png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey (2).png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Banana.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Banana.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Banana.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Carro Nuevo.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Carro Nuevo.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Carro Nuevo.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Cereza.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Cereza.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey Cereza.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Cool Grey.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Crema Quita Gotas 300ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Crema Quita Gotas 300ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Crema Quita Gotas 300ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Desgramot 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Desgramot 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Desgramot 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Esponjas Blancas.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Esponjas Blancas.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Esponjas Blancas.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Esponjas Rojas.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Esponjas Rojas.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Esponjas Rojas.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Fin Gras 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Fin Gras 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Fin Gras 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Fino Touch 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Fino Touch 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Fino Touch 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Gel Azul 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Gel Azul 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Gel Azul 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Gras Fin 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Gras Fin 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Gras Fin 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Leather Clean 250ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Leather Clean 250ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Leather Clean 250ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Lubricante 60ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Lubricante 60ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Lubricante 60ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Mano Clean 1kg.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Mano Clean 1kg.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Mano Clean 1kg.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Microfibra.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Microfibra.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Microfibra.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Oil Restorer 50ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Oil Restorer 50ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Oil Restorer 50ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Plastimagic 100g.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Plastimagic 100g.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Plastimagic 100g.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Plastimagic 200g.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Plastimagic 200g.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Plastimagic 200g.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Blanco 300ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Blanco 300ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Blanco 300ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Rojo 300ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Rojo 300ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Rojo 300ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Rosa 300ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Rosa 300ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Polish Rosa 300ml.png",
-      "imagen": 3
-    },
-    {
-      "referencia": "prelavador.jpg",
-      "imagen": 1
-    },
-    {
-      "referencia": "prelavador.jpg",
-      "imagen": 2
-    },
-    {
-      "referencia": "prelavador.jpg",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento 3 en 1 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento 3 en 1 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento 3 en 1 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Azul 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Azul 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Azul 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Blanco 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Blanco 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Blanco 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Rosa 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Rosa 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pulimento Rosa 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pum Shampoo.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pum Shampoo.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Pum Shampoo.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Qiuta Gotas 500ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Qiuta Gotas 500ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Qiuta Gotas 500ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Quita Goma 130ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Quita Goma 130ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Quita Goma 130ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Quita Gotas 130ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Quita Gotas 130ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Quita Gotas 130ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Repelente de Agua 130ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Repelente de Agua 130ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Repelente de Agua 130ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Restaurador de Faros 130ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Restaurador de Faros 130ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Restaurador de Faros 130ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Restaurador de Faros 250ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Restaurador de Faros 250ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Restaurador de Faros 250ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Rines Motores y Llantas 600ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Rines Motores y Llantas 600ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Rines Motores y Llantas 600ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Shampoo Cera Platinum 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Shampoo Cera Platinum 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Shampoo Cera Platinum 1L.png",
-      "imagen": 3
-    },
-    {
-      "referencia": "shampoo con cera.png",
-      "imagen": 1
-    },
-    {
-      "referencia": "shampoo con cera.png",
-      "imagen": 2
-    },
-    {
-      "referencia": "shampoo con cera.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Silicrem 1kg.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Silicrem 1kg.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Silicrem 1kg.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Silicrem 300ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Silicrem 300ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Silicrem 300ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Super Corte 250ml.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Super Corte 250ml.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Super Corte 250ml.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 1
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 2
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     },
     {
       "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 3
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "imagen": 1,
+      "archivo": "01_Ecommerce.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "imagen": 2,
+      "archivo": "02_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "imagen": 3,
+      "archivo": "03_Creativa.png",
+      "carpeta_pendiente_inspeccion": true
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Abrillantador QM 500ml.png",
-    "Afloja Fácil.png",
     "Alumbra 1L.png",
     "Aluminox 1L.png",
     "Aroma Vainilla 1L.png",
@@ -746,10 +1086,9 @@
     "Brillo Platinum 1L.png",
     "Car Wash 1L.png",
     "Car Wash Galón 3.8L.png",
-    "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-    "Cera en Pasta.png",
     "Cera Liquida 500ml.png",
     "Cera Rápida 600ml.png",
+    "Cera en Pasta.png",
     "Cool Grey (2).png",
     "Cool Grey Banana.png",
     "Cool Grey Carro Nuevo.png",
@@ -773,7 +1112,6 @@
     "Polish Blanco 300ml.png",
     "Polish Rojo 300ml.png",
     "Polish Rosa 300ml.png",
-    "prelavador.jpg",
     "Pulimento 3 en 1 500ml.png",
     "Pulimento Azul 500ml.png",
     "Pulimento Blanco 500ml.png",
@@ -787,12 +1125,26 @@
     "Restaurador de Faros 250ml.png",
     "Rines Motores y Llantas 600ml.png",
     "Shampoo Cera Platinum 1L.png",
-    "shampoo con cera.png",
     "Silicrem 1kg.png",
     "Silicrem 300ml.png",
     "Super Corte 250ml.png",
-    "Wiper Cleaner 1L.png"
+    "Wiper Cleaner 1L.png",
+    "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+    "prelavador.jpg",
+    "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 1
+  "portadas_con_tres_imagenes": 2,
+  "ultimo_commit_verificado": "9c476003f24f16a388ce19756f6322ffddea3268",
+  "generaciones_totales_incluidas_correcciones": 8,
+  "revisiones_pendientes": [
+    {
+      "referencia": "Abrillantador QM 500ml.png",
+      "observacion": "Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente."
+    },
+    {
+      "referencia": "Afloja Fácil.png",
+      "observacion": "Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente."
+    }
+  ]
 }
