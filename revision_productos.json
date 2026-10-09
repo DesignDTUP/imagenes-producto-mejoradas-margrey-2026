@@ -50,5 +50,31 @@
     ],
     "review": "Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Aroma Vainilla 1L.png",
+    "product": "Aromatizante Vainilla",
+    "presentation": "1 L",
+    "folder": "Aromatizante/1L/Vainilla",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/colorblock"
+    ],
+    "review": "Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
+    "inspected": true
+  },
+  {
+    "reference": "Auto Brillo S Spray 473ml.png",
+    "product": "Autobrillo-S Spray",
+    "presentation": "495 mL / 16.73 oz",
+    "folder": "Autobrillo-S Spray/495ml",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/productpedestal"
+    ],
+    "review": "Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
+    "inspected": true
   }
 ]

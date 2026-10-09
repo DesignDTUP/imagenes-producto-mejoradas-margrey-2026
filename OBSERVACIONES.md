@@ -17,3 +17,11 @@ Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de
 ## Aluminiox — 1 L
 
 Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación.
+
+## Aromatizante Vainilla — 1 L
+
+Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Autobrillo-S Spray — 495 mL / 16.73 oz
+
+Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.

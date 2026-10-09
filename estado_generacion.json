@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 12,
-  "imagenes_publicadas_verificadas": 6,
+  "imagenes_generadas": 18,
+  "imagenes_publicadas_verificadas": 12,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Aroma Vainilla 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Aroma Vainilla 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Aroma Vainilla 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Auto Brillo S Spray 473ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Auto Brillo S Spray 473ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Auto Brillo S Spray 473ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Autobrillo A 1L.png",
       "imagen": 1,
@@ -1037,8 +1001,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Aroma Vainilla 1L.png",
-    "Auto Brillo S Spray 473ml.png",
     "Autobrillo A 1L.png",
     "Autobrillo A 500ml.png",
     "Autobrillo Atomizable 600ml.png",
@@ -1096,9 +1058,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 4,
-  "ultimo_commit_verificado": "4ef5c1d3c1b139652aaf6bf42624dae08109f6a4",
-  "generaciones_totales_incluidas_correcciones": 14,
+  "portadas_con_tres_imagenes": 6,
+  "ultimo_commit_verificado": "afd056e18724aec1216ab730135ffc25e3d4a31a",
+  "generaciones_totales_incluidas_correcciones": 20,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -1115,6 +1077,14 @@
     {
       "referencia": "Aluminox 1L.png",
       "observacion": "Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación."
+    },
+    {
+      "referencia": "Aroma Vainilla 1L.png",
+      "observacion": "Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Auto Brillo S Spray 473ml.png",
+      "observacion": "Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
     }
   ]
 }
