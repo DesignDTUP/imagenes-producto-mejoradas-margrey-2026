@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 18,
-  "imagenes_publicadas_verificadas": 12,
+  "imagenes_generadas": 24,
+  "imagenes_publicadas_verificadas": 18,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Autobrillo A 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo A 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo A 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo A 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo A 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo A 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Autobrillo Atomizable 600ml.png",
       "imagen": 1,
@@ -1001,8 +965,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Autobrillo A 1L.png",
-    "Autobrillo A 500ml.png",
     "Autobrillo Atomizable 600ml.png",
     "Autobrillo S Original 1L.png",
     "Autobrillo S Original 500ml.png",
@@ -1058,9 +1020,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 6,
-  "ultimo_commit_verificado": "afd056e18724aec1216ab730135ffc25e3d4a31a",
-  "generaciones_totales_incluidas_correcciones": 20,
+  "portadas_con_tres_imagenes": 8,
+  "ultimo_commit_verificado": "0365ab9d5f40ff3d2f196200265e1ba3c1fdb53a",
+  "generaciones_totales_incluidas_correcciones": 26,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -1085,6 +1047,14 @@
     {
       "referencia": "Auto Brillo S Spray 473ml.png",
       "observacion": "Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Autobrillo A 1L.png",
+      "observacion": "Identidad y presentación coinciden. Producto completo en tres imágenes; estilos y composiciones distintos. Revisión de etiqueta pendiente por detalles tipográficos y fotos impresas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Autobrillo A 500ml.png",
+      "observacion": "Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
     }
   ]
 }

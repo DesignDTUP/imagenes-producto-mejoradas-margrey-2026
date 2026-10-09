@@ -76,5 +76,31 @@
     ],
     "review": "Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
     "inspected": true
+  },
+  {
+    "reference": "Autobrillo A 1L.png",
+    "product": "Autobrillo A",
+    "presentation": "1 L",
+    "folder": "Autobrillo A/1L",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/gradient"
+    ],
+    "review": "Identidad y presentación coinciden. Producto completo en tres imágenes; estilos y composiciones distintos. Revisión de etiqueta pendiente por detalles tipográficos y fotos impresas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
+    "inspected": true
+  },
+  {
+    "reference": "Autobrillo A 500ml.png",
+    "product": "Brillantador",
+    "presentation": "500 mL",
+    "folder": "Brillantador/500ml",
+    "styles": [
+      "/ecommerce",
+      "/blackluxury",
+      "/productpedestal"
+    ],
+    "review": "Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
+    "inspected": true
   }
 ]

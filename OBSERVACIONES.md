@@ -25,3 +25,11 @@ Producto completo, botella roja y flor amarilla impresa conservadas; estilos dis
 ## Autobrillo-S Spray — 495 mL / 16.73 oz
 
 Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Autobrillo A — 1 L
+
+Identidad y presentación coinciden. Producto completo en tres imágenes; estilos y composiciones distintos. Revisión de etiqueta pendiente por detalles tipográficos y fotos impresas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Brillantador — 500 mL
+
+Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
