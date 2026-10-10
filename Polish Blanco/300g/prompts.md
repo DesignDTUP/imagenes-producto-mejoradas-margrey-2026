@@ -1,0 +1,15 @@
+
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Conservar exactamente el tarro negro cilíndrico de referencia, tapa negra estriada, etiqueta blanca con semicírculo rojo superior y logo MARGREY, gran caligrafía Polish Blanco blanca delineada negra, coche y rueda impresos a derecha, franja inferior plateada, Cont. Net. 300g / 10.58 oz. El nombre archivo 300ml no corresponde: conservar 300g fotografiado. Mantener toda etiqueta como textura fotográfica fija incluidos microtextos originales, incluso imperfecciones; no corregir ni reescribir ni inventar información. Preservar forma, proporciones, materiales, tapa, colores. Tarro completo frontal y etiqueta visible, sin accesorios ni texto agregado. Principal cuadrada, fondo puro blanco #FFFFFF hasta bordes, producto centrado con márgenes equilibrados, luz de estudio uniforme con reflejos suaves y sombra tenue debajo. Sin adornos externos ni pedestal.
+
+
+## 02_Creativa.png — /colorblock
+
+Use case: precise-object-edit. Conservar exactamente el tarro negro cilíndrico de referencia, tapa negra estriada, etiqueta blanca con semicírculo rojo superior y logo MARGREY, gran caligrafía Polish Blanco blanca delineada negra, coche y rueda impresos a derecha, franja inferior plateada, Cont. Net. 300g / 10.58 oz. El nombre archivo 300ml no corresponde: conservar 300g fotografiado. Mantener toda etiqueta como textura fotográfica fija incluidos microtextos originales, incluso imperfecciones; no corregir ni reescribir ni inventar información. Preservar forma, proporciones, materiales, tapa, colores. Tarro completo frontal y etiqueta visible, sin accesorios ni texto agregado. Creativa cuadrada producto en tercio derecho sobre suelo gris claro mate. Fondo grandes bloques planos rojo vivo y blanco hueso con división diagonal limpia descendente a izquierda. Contraste gráfico inspirado en etiqueta, iluminación uniforme frontal, sin textos externos ni objetos, no tapar producto.
+
+
+## 03_Creativa.png — /monochrome
+
+Use case: precise-object-edit. Conservar exactamente el tarro negro cilíndrico de referencia, tapa negra estriada, etiqueta blanca con semicírculo rojo superior y logo MARGREY, gran caligrafía Polish Blanco blanca delineada negra, coche y rueda impresos a derecha, franja inferior plateada, Cont. Net. 300g / 10.58 oz. El nombre archivo 300ml no corresponde: conservar 300g fotografiado. Mantener toda etiqueta como textura fotográfica fija incluidos microtextos originales, incluso imperfecciones; no corregir ni reescribir ni inventar información. Preservar forma, proporciones, materiales, tapa, colores. Tarro completo frontal y etiqueta visible, sin accesorios ni texto agregado. Creativa cuadrada simétrica centrada. Entorno completamente gris plata con fondo pared estriada vertical sutil y suelo gris mate, sombra lateral suave. Conservar rojo original de etiqueta y todos los colores del producto: monocromático sólo en entorno. Tarro ocupa 60% ancho con aire superior, luz envolvente de estudio sin bloques rojos ni objetos adicionales.

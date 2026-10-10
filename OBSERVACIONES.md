@@ -153,3 +153,11 @@ Discrepancia: archivo 50ml, etiqueta Cont. Neto 55 mL. Conservada identidad y pr
 ## Plasti-Magic — 100g
 
 Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Plasti-Magic — 200g
+
+Tarro completo, etiqueta azul negra con coche impreso; 200 g / 7.1 Oz conservados. Esta referencia no muestra sello exterior. Estilos diferenciados. Revisión de etiqueta pendiente por detalles gráficos y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Polish Blanco — 300g
+
+Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
