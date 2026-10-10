@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 66,
-  "imagenes_publicadas_verificadas": 60,
+  "imagenes_generadas": 72,
+  "imagenes_publicadas_verificadas": 66,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Cool Grey Cereza.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Cereza.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Cereza.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Crema Quita Gotas 300ml.png",
       "imagen": 1,
@@ -713,8 +677,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Cool Grey Cereza.png",
-    "Cool Grey.png",
     "Crema Quita Gotas 300ml.png",
     "Desgramot 1L.png",
     "Esponjas Blancas.png",
@@ -754,9 +716,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 22,
-  "ultimo_commit_verificado": "efd2995b3b0c978569a8777c8b48da6145050965",
-  "generaciones_totales_incluidas_correcciones": 68,
+  "portadas_con_tres_imagenes": 24,
+  "ultimo_commit_verificado": "a9771fc9f2177063a3907a257c2ec8cf18f774d0",
+  "generaciones_totales_incluidas_correcciones": 74,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -845,6 +807,14 @@
     {
       "referencia": "Cool Grey Carro Nuevo.png",
       "observacion": "Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Cool Grey Cereza.png",
+      "observacion": "Producto completo, identidad CHERRY preservada con oclusión original del colgante. Revisión de etiqueta pendiente por detalles gráficos pequeños. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Cool Grey.png",
+      "observacion": "Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación."
     }
   ]
 }

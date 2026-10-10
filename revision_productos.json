@@ -287,5 +287,33 @@
     ],
     "review": "Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Cool Grey Cereza.png",
+    "product": "Cool Grey",
+    "presentation": "1 pieza",
+    "aroma": "Cherry",
+    "folder": "Cool Grey/1 pieza/Cherry",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/lighttrails"
+    ],
+    "review": "Producto completo, identidad CHERRY preservada con oclusión original del colgante. Revisión de etiqueta pendiente por detalles gráficos pequeños. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Cool Grey.png",
+    "product": "Cool Grey",
+    "presentation": "1 pieza",
+    "aroma": "Uva Silvestre",
+    "folder": "Cool Grey/1 pieza/Uva Silvestre",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/blackluxury"
+    ],
+    "review": "Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]

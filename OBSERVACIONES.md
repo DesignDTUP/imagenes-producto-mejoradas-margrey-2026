@@ -89,3 +89,11 @@ Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre par
 ## Cool Grey — 1 pieza
 
 Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Blanco exacto pendiente de verificación.
+
+## Cool Grey — 1 pieza
+
+Producto completo, identidad CHERRY preservada con oclusión original del colgante. Revisión de etiqueta pendiente por detalles gráficos pequeños. Blanco exacto pendiente de verificación.
+
+## Cool Grey — 1 pieza
+
+Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación.
