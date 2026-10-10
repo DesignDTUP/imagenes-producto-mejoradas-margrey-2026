@@ -73,3 +73,11 @@ Producto completo, nombre y presentación legibles, gráficos impresos conservad
 ## Cera Líquida — 500ml
 
 Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación.
+
+## Cera Rápida — 600ml
+
+Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente por texto pequeño y detalles impresos. Blanco exacto pendiente de verificación.
+
+## Cool Grey — 1 pieza
+
+Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Blanco exacto pendiente de verificación.

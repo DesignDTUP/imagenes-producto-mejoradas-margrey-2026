@@ -232,5 +232,32 @@
     ],
     "review": "Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Cera Rápida 600ml.png",
+    "product": "Cera Rápida",
+    "presentation": "600ml",
+    "folder": "Cera Rápida/600ml",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/papercut"
+    ],
+    "review": "Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente por texto pequeño y detalles impresos. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Cool Grey (2).png",
+    "product": "Cool Grey",
+    "presentation": "1 pieza",
+    "aroma": "Berry",
+    "folder": "Cool Grey/1 pieza/Berry",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/gradient"
+    ],
+    "review": "Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]
