@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 72,
-  "imagenes_publicadas_verificadas": 66,
+  "imagenes_generadas": 78,
+  "imagenes_publicadas_verificadas": 72,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Crema Quita Gotas 300ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Crema Quita Gotas 300ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Crema Quita Gotas 300ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Desgramot 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Desgramot 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Desgramot 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Esponjas Blancas.png",
       "imagen": 1,
@@ -677,8 +641,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Crema Quita Gotas 300ml.png",
-    "Desgramot 1L.png",
     "Esponjas Blancas.png",
     "Esponjas Rojas.png",
     "Fin Gras 1L.png",
@@ -716,9 +678,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 24,
-  "ultimo_commit_verificado": "a9771fc9f2177063a3907a257c2ec8cf18f774d0",
-  "generaciones_totales_incluidas_correcciones": 74,
+  "portadas_con_tres_imagenes": 26,
+  "ultimo_commit_verificado": "f60acb6469400b7f3b02a8cff311f1f92020b6ae",
+  "generaciones_totales_incluidas_correcciones": 80,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -815,6 +777,14 @@
     {
       "referencia": "Cool Grey.png",
       "observacion": "Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Crema Quita Gotas 300ml.png",
+      "observacion": "Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Desgramot 1L.png",
+      "observacion": "Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática."
     }
   ]
 }

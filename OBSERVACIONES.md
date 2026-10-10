@@ -97,3 +97,11 @@ Producto completo, identidad CHERRY preservada con oclusión original del colgan
 ## Cool Grey — 1 pieza
 
 Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación.
+
+## Crema Quita Gotas — 300ml
+
+Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Blanco exacto pendiente de verificación.
+
+## Desgra-Mot — 1L
+
+Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática.

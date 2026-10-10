@@ -315,5 +315,31 @@
     ],
     "review": "Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Crema Quita Gotas 300ml.png",
+    "product": "Crema Quita Gotas",
+    "presentation": "300ml",
+    "folder": "Crema Quita Gotas/300ml",
+    "styles": [
+      "/ecommerce",
+      "/blackluxury",
+      "/monochrome"
+    ],
+    "review": "Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Desgramot 1L.png",
+    "product": "Desgra-Mot",
+    "presentation": "1L",
+    "folder": "Desgra-Mot/1L",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/papercut"
+    ],
+    "review": "Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática.",
+    "inspected": true
   }
 ]
