@@ -161,3 +161,11 @@ Tarro completo, etiqueta azul negra con coche impreso; 200 g / 7.1 Oz conservado
 ## Polish Blanco — 300g
 
 Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Polish Rojo — 300g
+
+Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada y presentación 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Tarro completo y estilos distintos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Polish Rosa — 300g
+
+Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce.

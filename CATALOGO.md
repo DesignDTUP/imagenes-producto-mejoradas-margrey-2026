@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-40/61 portadas con tres imágenes; 120/183 archivos de entrega generados. Trabajo en curso.
+42/61 portadas con tres imágenes; 126/183 archivos de entrega generados. Trabajo en curso.
 
 - [Abrillantador de Pintura QM — 500 mL](Abrillantador%20QM/500ml/README.md): 3/3; revisión pendiente.
 - [Afloja Fácil — 296 mL / 10 oz](Afloja%20F%C3%A1cil/296ml/README.md): 3/3; revisión pendiente.
@@ -41,6 +41,8 @@
 - [Plasti-Magic — 100g](Plasti-Magic/100g/README.md): 3/3; revisión pendiente.
 - [Plasti-Magic — 200g](Plasti-Magic/200g/README.md): 3/3; revisión pendiente.
 - [Polish Blanco — 300g](Polish%20Blanco/300g/README.md): 3/3; revisión pendiente.
+- [Polish Rojo — 300g](Polish%20Rojo/300g/README.md): 3/3; revisión pendiente.
+- [Polish Rosa — 300g](Polish%20Rosa/300g/README.md): 3/3; revisión pendiente.
 - [Bubble Wash — 1.89L](Bubble%20Wash/1.89L/README.md): 3/3; revisión pendiente.
 
 [Inventario completo](inventario.csv) · [Pendientes exactos](estado_generacion.json) · [Observaciones](OBSERVACIONES.md)

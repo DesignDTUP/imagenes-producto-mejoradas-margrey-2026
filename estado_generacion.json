@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 120,
-  "imagenes_publicadas_verificadas": 114,
+  "imagenes_generadas": 126,
+  "imagenes_publicadas_verificadas": 120,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Polish Rojo 300ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Polish Rojo 300ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Polish Rojo 300ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Polish Rosa 300ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Polish Rosa 300ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Polish Rosa 300ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Pulimento 3 en 1 500ml.png",
       "imagen": 1,
@@ -389,8 +353,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Polish Rojo 300ml.png",
-    "Polish Rosa 300ml.png",
     "Pulimento 3 en 1 500ml.png",
     "Pulimento Azul 500ml.png",
     "Pulimento Blanco 500ml.png",
@@ -412,9 +374,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 40,
-  "ultimo_commit_verificado": "186968e610440a119baeafa6ae10a1f1929fe527",
-  "generaciones_totales_incluidas_correcciones": 122,
+  "portadas_con_tres_imagenes": 42,
+  "ultimo_commit_verificado": "62f56772081b4807ddffe6e7957e873f1f54b448",
+  "generaciones_totales_incluidas_correcciones": 128,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -575,6 +537,14 @@
     {
       "referencia": "Polish Blanco 300ml.png",
       "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Polish Rojo 300ml.png",
+      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada y presentación 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Tarro completo y estilos distintos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Polish Rosa 300ml.png",
+      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
     }
   ]
 }
