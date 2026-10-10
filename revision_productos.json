@@ -341,5 +341,31 @@
     ],
     "review": "Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática.",
     "inspected": true
+  },
+  {
+    "reference": "Esponjas Blancas.png",
+    "product": "Esponjas Blancas",
+    "presentation": "3 piezas fotografiadas",
+    "folder": "Esponjas Blancas/3 piezas fotografiadas",
+    "styles": [
+      "/ecommerce",
+      "/monochrome",
+      "/colorblock"
+    ],
+    "review": "Tres esponjas completas, sin etiqueta ni marca en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Estilos distintos y tercera cenital. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Esponjas Rojas.png",
+    "product": "Esponjas Rojas",
+    "presentation": "2 piezas fotografiadas",
+    "folder": "Esponjas Rojas/2 piezas fotografiadas",
+    "styles": [
+      "/ecommerce",
+      "/colorblock",
+      "/productpedestal"
+    ],
+    "review": "Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]

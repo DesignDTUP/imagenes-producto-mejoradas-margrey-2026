@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-26/61 portadas con tres imágenes; 78/183 archivos de entrega generados. Trabajo en curso.
+28/61 portadas con tres imágenes; 84/183 archivos de entrega generados. Trabajo en curso.
 
 - [Abrillantador de Pintura QM — 500 mL](Abrillantador%20QM/500ml/README.md): 3/3; revisión pendiente.
 - [Afloja Fácil — 296 mL / 10 oz](Afloja%20F%C3%A1cil/296ml/README.md): 3/3; revisión pendiente.
@@ -27,6 +27,8 @@
 - [Cool Grey — 1 pieza](Cool%20Grey/1%20pieza/Uva%20Silvestre/README.md): 3/3; revisión pendiente.
 - [Crema Quita Gotas — 300ml](Crema%20Quita%20Gotas/300ml/README.md): 3/3; revisión pendiente.
 - [Desgra-Mot — 1L](Desgra-Mot/1L/README.md): 3/3; revisión pendiente.
+- [Esponjas Blancas — 3 piezas fotografiadas](Esponjas%20Blancas/3%20piezas%20fotografiadas/README.md): 3/3; revisión pendiente.
+- [Esponjas Rojas — 2 piezas fotografiadas](Esponjas%20Rojas/2%20piezas%20fotografiadas/README.md): 3/3; revisión pendiente.
 - [Bubble Wash — 1.89L](Bubble%20Wash/1.89L/README.md): 3/3; revisión pendiente.
 
 [Inventario completo](inventario.csv) · [Pendientes exactos](estado_generacion.json) · [Observaciones](OBSERVACIONES.md)

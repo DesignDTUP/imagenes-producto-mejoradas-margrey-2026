@@ -105,3 +105,11 @@ Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendi
 ## Desgra-Mot — 1L
 
 Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática.
+
+## Esponjas Blancas — 3 piezas fotografiadas
+
+Tres esponjas completas, sin etiqueta ni marca en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Estilos distintos y tercera cenital. Blanco exacto pendiente de verificación.
+
+## Esponjas Rojas — 2 piezas fotografiadas
+
+Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Blanco exacto pendiente de verificación.
