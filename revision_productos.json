@@ -393,5 +393,31 @@
     ],
     "review": "Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Gel Azul 500ml.png",
+    "product": "Gel Azul",
+    "presentation": "500ml",
+    "folder": "Gel Azul/500ml",
+    "styles": [
+      "/ecommerce",
+      "/colorblock",
+      "/productpedestal"
+    ],
+    "review": "Producto completo, nombre y presentación correctos. Revisión de etiqueta pendiente por variación del coche y detalles finos. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Gras Fin 1L.png",
+    "product": "Gras-Fin",
+    "presentation": "1L",
+    "folder": "Gras-Fin/1L",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/monochrome"
+    ],
+    "review": "Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]

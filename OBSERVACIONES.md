@@ -121,3 +121,11 @@ Botella completa y estilos diferentes. Revisión de etiqueta pendiente por peque
 ## Fino Touch Carnauba — 500ml
 
 Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Blanco exacto pendiente de verificación.
+
+## Gel Azul — 500ml
+
+Producto completo, nombre y presentación correctos. Revisión de etiqueta pendiente por variación del coche y detalles finos. Blanco exacto pendiente de verificación.
+
+## Gras-Fin — 1L
+
+Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación.
