@@ -471,5 +471,31 @@
     ],
     "review": "Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente.",
     "inspected": true
+  },
+  {
+    "reference": "Oil Restorer 50ml.png",
+    "product": "Oil Restorer",
+    "presentation": "55ml",
+    "folder": "Oil Restorer/55ml",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/monochrome"
+    ],
+    "review": "Discrepancia: archivo 50ml, etiqueta Cont. Neto 55 mL. Conservada identidad y presentación fotografiada de 55 mL, bomba negra con tapa transparente. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones en detalles pequeños; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Plastimagic 100g.png",
+    "product": "Plasti-Magic",
+    "presentation": "100g",
+    "folder": "Plasti-Magic/100g",
+    "styles": [
+      "/ecommerce",
+      "/colorblock",
+      "/blackluxury"
+    ],
+    "review": "Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
   }
 ]

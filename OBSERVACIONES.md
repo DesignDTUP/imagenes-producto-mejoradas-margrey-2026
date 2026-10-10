@@ -145,3 +145,11 @@ Discrepancia: archivo 1kg pero etiqueta fotografiada Cont.Net.1L; se conserva 1L
 ## Microfibra — 4 piezas fotografiadas
 
 Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente.
+
+## Oil Restorer — 55ml
+
+Discrepancia: archivo 50ml, etiqueta Cont. Neto 55 mL. Conservada identidad y presentación fotografiada de 55 mL, bomba negra con tapa transparente. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones en detalles pequeños; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Plasti-Magic — 100g
+
+Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce.

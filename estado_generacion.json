@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 108,
-  "imagenes_publicadas_verificadas": 102,
+  "imagenes_generadas": 114,
+  "imagenes_publicadas_verificadas": 108,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Oil Restorer 50ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Oil Restorer 50ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Oil Restorer 50ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Plastimagic 100g.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Plastimagic 100g.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Plastimagic 100g.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Plastimagic 200g.png",
       "imagen": 1,
@@ -461,8 +425,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Oil Restorer 50ml.png",
-    "Plastimagic 100g.png",
     "Plastimagic 200g.png",
     "Polish Blanco 300ml.png",
     "Polish Rojo 300ml.png",
@@ -488,9 +450,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 36,
-  "ultimo_commit_verificado": "3279b787932ba8f6354656df21bbe2eee33934ba",
-  "generaciones_totales_incluidas_correcciones": 110,
+  "portadas_con_tres_imagenes": 38,
+  "ultimo_commit_verificado": "5a1e8d2bb9d1f8bf1569a9f9c615903f222ae937",
+  "generaciones_totales_incluidas_correcciones": 116,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -635,6 +597,14 @@
     {
       "referencia": "Microfibra.png",
       "observacion": "Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente."
+    },
+    {
+      "referencia": "Oil Restorer 50ml.png",
+      "observacion": "Discrepancia: archivo 50ml, etiqueta Cont. Neto 55 mL. Conservada identidad y presentación fotografiada de 55 mL, bomba negra con tapa transparente. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones en detalles pequeños; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Plastimagic 100g.png",
+      "observacion": "Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
     }
   ]
 }
