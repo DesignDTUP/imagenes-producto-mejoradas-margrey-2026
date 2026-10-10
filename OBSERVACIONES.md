@@ -129,3 +129,11 @@ Producto completo, nombre y presentación correctos. Revisión de etiqueta pendi
 ## Gras-Fin — 1L
 
 Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación.
+
+## Leather Clean — 250ml
+
+Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Blanco exacto pendiente de verificación.
+
+## Lubricante para Plasti-Magic — 60ml
+
+Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación.

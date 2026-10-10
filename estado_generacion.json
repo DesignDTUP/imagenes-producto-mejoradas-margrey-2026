@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 96,
-  "imagenes_publicadas_verificadas": 90,
+  "imagenes_generadas": 102,
+  "imagenes_publicadas_verificadas": 96,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Leather Clean 250ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Leather Clean 250ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Leather Clean 250ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Lubricante 60ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Lubricante 60ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Lubricante 60ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Mano Clean 1kg.png",
       "imagen": 1,
@@ -533,8 +497,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Leather Clean 250ml.png",
-    "Lubricante 60ml.png",
     "Mano Clean 1kg.png",
     "Microfibra.png",
     "Oil Restorer 50ml.png",
@@ -564,9 +526,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 32,
-  "ultimo_commit_verificado": "3fba574609a4364ef331116188de2f9df6c0cce0",
-  "generaciones_totales_incluidas_correcciones": 98,
+  "portadas_con_tres_imagenes": 34,
+  "ultimo_commit_verificado": "e5dac403a90a162893c79fc66241f2c872780f4c",
+  "generaciones_totales_incluidas_correcciones": 104,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -695,6 +657,14 @@
     {
       "referencia": "Gras Fin 1L.png",
       "observacion": "Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Leather Clean 250ml.png",
+      "observacion": "Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Lubricante 60ml.png",
+      "observacion": "Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación."
     }
   ]
 }

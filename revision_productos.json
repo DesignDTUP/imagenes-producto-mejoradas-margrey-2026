@@ -419,5 +419,31 @@
     ],
     "review": "Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Leather Clean 250ml.png",
+    "product": "Leather Clean",
+    "presentation": "250ml",
+    "folder": "Leather Clean/250ml",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/gradient"
+    ],
+    "review": "Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Lubricante 60ml.png",
+    "product": "Lubricante para Plasti-Magic",
+    "presentation": "60ml",
+    "folder": "Lubricante para Plasti-Magic/60ml",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/productpedestal"
+    ],
+    "review": "Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]
