@@ -113,3 +113,11 @@ Tres esponjas completas, sin etiqueta ni marca en referencia; no corresponde rev
 ## Esponjas Rojas — 2 piezas fotografiadas
 
 Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Blanco exacto pendiente de verificación.
+
+## Fin Gras — 1L
+
+Botella completa y estilos diferentes. Revisión de etiqueta pendiente por pequeños cambios gráficos y signo de marca. Blanco exacto pendiente de verificación.
+
+## Fino Touch Carnauba — 500ml
+
+Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Blanco exacto pendiente de verificación.

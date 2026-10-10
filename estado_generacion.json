@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 84,
-  "imagenes_publicadas_verificadas": 78,
+  "imagenes_generadas": 90,
+  "imagenes_publicadas_verificadas": 84,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Fin Gras 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Fin Gras 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Fin Gras 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Fino Touch 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Fino Touch 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Fino Touch 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Gel Azul 500ml.png",
       "imagen": 1,
@@ -605,8 +569,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Fin Gras 1L.png",
-    "Fino Touch 500ml.png",
     "Gel Azul 500ml.png",
     "Gras Fin 1L.png",
     "Leather Clean 250ml.png",
@@ -640,9 +602,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 28,
-  "ultimo_commit_verificado": "8de0b57eefa9deb3a2dbd757eca3c1a67c7490f1",
-  "generaciones_totales_incluidas_correcciones": 86,
+  "portadas_con_tres_imagenes": 30,
+  "ultimo_commit_verificado": "675db460b95ba2804e361620dd74c0f998e1e600",
+  "generaciones_totales_incluidas_correcciones": 92,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -755,6 +717,14 @@
     {
       "referencia": "Esponjas Rojas.png",
       "observacion": "Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Fin Gras 1L.png",
+      "observacion": "Botella completa y estilos diferentes. Revisión de etiqueta pendiente por pequeños cambios gráficos y signo de marca. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Fino Touch 500ml.png",
+      "observacion": "Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Blanco exacto pendiente de verificación."
     }
   ]
 }
