@@ -137,3 +137,11 @@ Botella completa con identidad y presentación conservadas. Revisión de etiquet
 ## Lubricante para Plasti-Magic — 60ml
 
 Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación.
+
+## Mano Clean — 1L
+
+Discrepancia: archivo 1kg pero etiqueta fotografiada Cont.Net.1L; se conserva 1L. Tarro completo. Revisión de etiqueta pendiente: columnas laterales, símbolos y código de barras. Blanco exacto pendiente de verificación.
+
+## Microfibra — 4 piezas fotografiadas
+
+Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente.

@@ -445,5 +445,31 @@
     ],
     "review": "Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Mano Clean 1kg.png",
+    "product": "Mano Clean",
+    "presentation": "1L",
+    "folder": "Mano Clean/1L",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/papercut"
+    ],
+    "review": "Discrepancia: archivo 1kg pero etiqueta fotografiada Cont.Net.1L; se conserva 1L. Tarro completo. Revisión de etiqueta pendiente: columnas laterales, símbolos y código de barras. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Microfibra.png",
+    "product": "Microfibra",
+    "presentation": "4 piezas fotografiadas",
+    "folder": "Microfibra/4 piezas fotografiadas",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/blackluxury"
+    ],
+    "review": "Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente.",
+    "inspected": true
   }
 ]

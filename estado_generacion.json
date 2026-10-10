@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 102,
-  "imagenes_publicadas_verificadas": 96,
+  "imagenes_generadas": 108,
+  "imagenes_publicadas_verificadas": 102,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Mano Clean 1kg.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Mano Clean 1kg.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Mano Clean 1kg.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Microfibra.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Microfibra.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Microfibra.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Oil Restorer 50ml.png",
       "imagen": 1,
@@ -497,8 +461,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Mano Clean 1kg.png",
-    "Microfibra.png",
     "Oil Restorer 50ml.png",
     "Plastimagic 100g.png",
     "Plastimagic 200g.png",
@@ -526,9 +488,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 34,
-  "ultimo_commit_verificado": "e5dac403a90a162893c79fc66241f2c872780f4c",
-  "generaciones_totales_incluidas_correcciones": 104,
+  "portadas_con_tres_imagenes": 36,
+  "ultimo_commit_verificado": "3279b787932ba8f6354656df21bbe2eee33934ba",
+  "generaciones_totales_incluidas_correcciones": 110,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -665,6 +627,14 @@
     {
       "referencia": "Lubricante 60ml.png",
       "observacion": "Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Mano Clean 1kg.png",
+      "observacion": "Discrepancia: archivo 1kg pero etiqueta fotografiada Cont.Net.1L; se conserva 1L. Tarro completo. Revisión de etiqueta pendiente: columnas laterales, símbolos y código de barras. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Microfibra.png",
+      "observacion": "Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente."
     }
   ]
 }
