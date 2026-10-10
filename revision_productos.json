@@ -180,5 +180,31 @@
     ],
     "review": "Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.",
     "inspected": true
+  },
+  {
+    "reference": "Car Wash Galón 3.8L.png",
+    "product": "Car Wash",
+    "presentation": "3.8L",
+    "folder": "Car Wash/3.8L",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/productpedestal"
+    ],
+    "review": "Producto completo y estilos distintos. Revisión de etiqueta pendiente: textos pequeños y códigos deformados. Fondo blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+    "product": "Bubble Wash",
+    "presentation": "1.89L",
+    "folder": "Bubble Wash/1.89L",
+    "styles": [
+      "/ecommerce",
+      "/blackluxury",
+      "/lighttrails"
+    ],
+    "review": "Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]

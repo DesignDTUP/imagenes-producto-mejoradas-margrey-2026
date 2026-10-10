@@ -57,3 +57,11 @@ Identidad y presentación coinciden. Envase lechoso y código de lote/caducidad 
 ## Car Wash — 1 L
 
 Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Car Wash — 3.8L
+
+Producto completo y estilos distintos. Revisión de etiqueta pendiente: textos pequeños y códigos deformados. Fondo blanco exacto pendiente de verificación.
+
+## Bubble Wash — 1.89L
+
+Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación.

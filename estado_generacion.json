@@ -5,29 +5,11 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 42,
-  "imagenes_publicadas_verificadas": 36,
+  "imagenes_generadas": 48,
+  "imagenes_publicadas_verificadas": 42,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
     {
-      "referencia": "Car Wash Galón 3.8L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Car Wash Galón 3.8L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Car Wash Galón 3.8L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
       "referencia": "Cera Liquida 500ml.png",
       "imagen": 1,
       "archivo": "01_Ecommerce.png",
@@ -797,24 +779,6 @@
     },
     {
       "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
       "imagen": 3,
       "archivo": "03_Creativa.png",
       "carpeta_pendiente_inspeccion": true
@@ -857,7 +821,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Car Wash Galón 3.8L.png",
     "Cera Liquida 500ml.png",
     "Cera Rápida 600ml.png",
     "Cera en Pasta.png",
@@ -901,14 +864,13 @@
     "Silicrem 300ml.png",
     "Super Corte 250ml.png",
     "Wiper Cleaner 1L.png",
-    "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
     "prelavador.jpg",
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 14,
-  "ultimo_commit_verificado": "aee82e661758cccffbb262f52d0c604924db1b0a",
-  "generaciones_totales_incluidas_correcciones": 44,
+  "portadas_con_tres_imagenes": 16,
+  "ultimo_commit_verificado": "7db778b4d4339ddd3dfa400b9f8f88440ba05cce",
+  "generaciones_totales_incluidas_correcciones": 50,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -965,6 +927,14 @@
     {
       "referencia": "Car Wash 1L.png",
       "observacion": "Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Car Wash Galón 3.8L.png",
+      "observacion": "Producto completo y estilos distintos. Revisión de etiqueta pendiente: textos pequeños y códigos deformados. Fondo blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+      "observacion": "Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación."
     }
   ]
 }
