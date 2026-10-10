@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-10/61 portadas con tres imágenes; 30/183 archivos de entrega generados. Trabajo en curso.
+12/61 portadas con tres imágenes; 36/183 archivos de entrega generados. Trabajo en curso.
 
 - [Abrillantador de Pintura QM — 500 mL](Abrillantador%20QM/500ml/README.md): 3/3; revisión pendiente.
 - [Afloja Fácil — 296 mL / 10 oz](Afloja%20F%C3%A1cil/296ml/README.md): 3/3; revisión pendiente.
@@ -12,5 +12,7 @@
 - [Brillantador — 500 mL](Brillantador/500ml/README.md): 3/3; revisión pendiente.
 - [Autobrillo Atomizable — 600 mL](Autobrillo%20Atomizable/600ml/README.md): 3/3; revisión pendiente.
 - [Autobrillo S Original — 1 L (según archivo; etiqueta multipresentación)](Autobrillo%20S%20Original/1L/README.md): 3/3; revisión pendiente.
+- [Autobrillo S Original — 500 mL](Autobrillo%20S%20Original/500ml/README.md): 3/3; revisión pendiente.
+- [Blister Crema y Repelente — 2 x 130 mL](Blister%20Crema%20y%20Repelente/2%20x%20130ml/README.md): 3/3; revisión pendiente.
 
 [Inventario completo](inventario.csv) · [Pendientes exactos](estado_generacion.json) · [Observaciones](OBSERVACIONES.md)

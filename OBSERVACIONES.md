@@ -41,3 +41,11 @@ Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visibl
 ## Autobrillo S Original — 1 L (según archivo; etiqueta multipresentación)
 
 Botella transparente de contenido azul y tapa negra conservadas. La etiqueta enumera 1L, 5L y 25L sin selección inequívoca; se mantiene intacta esa línea. Producto completo y estilos diferenciados. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Autobrillo S Original — 500 mL
+
+Identidad y presentación coinciden. Producto completo, contenido azul y textura impresa conservados, estilos distintos. Revisión de etiqueta pendiente en detalles pequeños y textos laterales. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+
+## Blister Crema y Repelente — 2 x 130 mL
+
+Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.

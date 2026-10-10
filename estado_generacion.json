@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 30,
-  "imagenes_publicadas_verificadas": 24,
+  "imagenes_generadas": 36,
+  "imagenes_publicadas_verificadas": 30,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Autobrillo S Original 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo S Original 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Autobrillo S Original 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Blister Crema y Repelente.jpg",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Blister Crema y Repelente.jpg",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Blister Crema y Repelente.jpg",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Brillo Platinum 1L.png",
       "imagen": 1,
@@ -929,8 +893,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Autobrillo S Original 500ml.png",
-    "Blister Crema y Repelente.jpg",
     "Brillo Platinum 1L.png",
     "Car Wash 1L.png",
     "Car Wash Galón 3.8L.png",
@@ -982,9 +944,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 10,
-  "ultimo_commit_verificado": "51b9536b5cf0ee2400c1e3597baaae084f119055",
-  "generaciones_totales_incluidas_correcciones": 32,
+  "portadas_con_tres_imagenes": 12,
+  "ultimo_commit_verificado": "bba0bfbca0ea0499d460dd49d140b72f5ff7138b",
+  "generaciones_totales_incluidas_correcciones": 38,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -1025,6 +987,14 @@
     {
       "referencia": "Autobrillo S Original 1L.png",
       "observacion": "Botella transparente de contenido azul y tapa negra conservadas. La etiqueta enumera 1L, 5L y 25L sin selección inequívoca; se mantiene intacta esa línea. Producto completo y estilos diferenciados. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Autobrillo S Original 500ml.png",
+      "observacion": "Identidad y presentación coinciden. Producto completo, contenido azul y textura impresa conservados, estilos distintos. Revisión de etiqueta pendiente en detalles pequeños y textos laterales. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Blister Crema y Repelente.jpg",
+      "observacion": "Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
     }
   ]
 }

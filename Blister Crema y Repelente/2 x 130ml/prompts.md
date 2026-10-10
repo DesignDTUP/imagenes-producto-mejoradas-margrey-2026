@@ -1,0 +1,15 @@
+
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Imagen adjunta objetivo de edición, blíster MARGREY de Repelente de Agua y Crema Quita Gotas, dos frascos 130 mL. Principal ecommerce cuadrada: empaque completo frontal vertical centrado con márgenes equilibrados, fondo digital blanco puro #FFFFFF RGB 255,255,255 sin textura ni grano; luz uniforme suave minimiza reflejos sobre plástico sin borrar el blíster, sombra tenue de contacto. Sin decoraciones exteriores. Conserva exactamente el blíster transparente completo, orificios superiores, cartón de fondo, dos frascos lado a lado, tapas negras y materiales. Frasco izquierdo Repelente de Agua 130 mL morado con amarillo; derecho Home MARGREY Crema Quita Gotas 130 mL morado con amarillo. Conserva toda etiqueta de ambos como textura fotográfica fija: logos, nombres, presentaciones, iconos, fotos impresas, textos pequeños sin reescribir, traducir, redibujar ni inventar. No desempaquetar ni añadir piezas o accesorios. No textos publicitarios nuevos.
+
+
+## 02_Creativa.png — /papercut
+
+Use case: precise-object-edit. Imagen adjunta objetivo de edición, blíster MARGREY Repelente de Agua y Crema Quita Gotas, 2 x 130 mL. Creativa papercut cuadrada: empaque entero frontal vertical a derecha sobre plano lavanda claro, grandes ondas de papel morado, amarillo y blanco a izquierda con relieves suaves; iluminación neutra frontal para leer ambas etiquetas, sin reflejos que las tapen. Conserva exactamente el blíster transparente completo, orificios superiores, cartón de fondo, dos frascos lado a lado, tapas negras y materiales. Frasco izquierdo Repelente de Agua 130 mL morado con amarillo; derecho Home MARGREY Crema Quita Gotas 130 mL morado con amarillo. Conserva toda etiqueta de ambos como textura fotográfica fija: logos, nombres, presentaciones, iconos, fotos impresas, textos pequeños sin reescribir, traducir, redibujar ni inventar. No desempaquetar ni añadir piezas o accesorios. No textos publicitarios nuevos.
+
+
+## 03_Creativa.png — /gradient
+
+Use case: precise-object-edit. Imagen adjunta objetivo de edición, blíster MARGREY Repelente de Agua y Crema Quita Gotas, 2 x 130 mL. Creativa gradient cuadrada: empaque entero frontal vertical centrado sobre superficie gris claro, fondo degradado continuo del morado profundo arriba al lavanda pálido abajo, halo luminoso suave detrás, composición simétrica sin papeles ni utilería. Luz neutra uniforme mantiene colores y etiquetas visibles, reflejos controlados en plástico. Conserva exactamente el blíster transparente completo, orificios superiores, cartón de fondo, dos frascos lado a lado, tapas negras y materiales. Frasco izquierdo Repelente de Agua 130 mL morado con amarillo; derecho Home MARGREY Crema Quita Gotas 130 mL morado con amarillo. Conserva toda etiqueta de ambos como textura fotográfica fija: logos, nombres, presentaciones, iconos, fotos impresas, textos pequeños sin reescribir, traducir, redibujar ni inventar. No desempaquetar ni añadir piezas o accesorios. No textos publicitarios nuevos.
