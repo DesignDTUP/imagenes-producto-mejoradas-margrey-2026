@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 60,
-  "imagenes_publicadas_verificadas": 54,
+  "imagenes_generadas": 66,
+  "imagenes_publicadas_verificadas": 60,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Cool Grey Banana.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Banana.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Banana.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Carro Nuevo.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Carro Nuevo.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cool Grey Carro Nuevo.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Cool Grey Cereza.png",
       "imagen": 1,
@@ -749,8 +713,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Cool Grey Banana.png",
-    "Cool Grey Carro Nuevo.png",
     "Cool Grey Cereza.png",
     "Cool Grey.png",
     "Crema Quita Gotas 300ml.png",
@@ -792,9 +754,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 20,
-  "ultimo_commit_verificado": "436df16d0eb33ef0c5e6f8d3d19ab4aee22f7caa",
-  "generaciones_totales_incluidas_correcciones": 62,
+  "portadas_con_tres_imagenes": 22,
+  "ultimo_commit_verificado": "efd2995b3b0c978569a8777c8b48da6145050965",
+  "generaciones_totales_incluidas_correcciones": 68,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -875,6 +837,14 @@
     {
       "referencia": "Cool Grey (2).png",
       "observacion": "Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Cool Grey Banana.png",
+      "observacion": "Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre parcialmente oculto por colgante (HAPPY visible), no reconstruido. Producto completo. Revisión de etiqueta pendiente por detalles pequeños y marcas. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Cool Grey Carro Nuevo.png",
+      "observacion": "Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Blanco exacto pendiente de verificación."
     }
   ]
 }

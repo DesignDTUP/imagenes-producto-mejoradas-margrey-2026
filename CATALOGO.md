@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-20/61 portadas con tres imágenes; 60/183 archivos de entrega generados. Trabajo en curso.
+22/61 portadas con tres imágenes; 66/183 archivos de entrega generados. Trabajo en curso.
 
 - [Abrillantador de Pintura QM — 500 mL](Abrillantador%20QM/500ml/README.md): 3/3; revisión pendiente.
 - [Afloja Fácil — 296 mL / 10 oz](Afloja%20F%C3%A1cil/296ml/README.md): 3/3; revisión pendiente.
@@ -21,6 +21,8 @@
 - [Cera Rápida — 600ml](Cera%20R%C3%A1pida/600ml/README.md): 3/3; revisión pendiente.
 - [Cera en Pasta — 355ml](Cera%20en%20Pasta/355ml/README.md): 3/3; revisión pendiente.
 - [Cool Grey — 1 pieza](Cool%20Grey/1%20pieza/Berry/README.md): 3/3; revisión pendiente.
+- [Cool Grey — 20ml](Cool%20Grey/20ml/Banana/README.md): 3/3; revisión pendiente.
+- [Cool Grey — 1 pieza](Cool%20Grey/1%20pieza/New%20Car/README.md): 3/3; revisión pendiente.
 - [Bubble Wash — 1.89L](Bubble%20Wash/1.89L/README.md): 3/3; revisión pendiente.
 
 [Inventario completo](inventario.csv) · [Pendientes exactos](estado_generacion.json) · [Observaciones](OBSERVACIONES.md)

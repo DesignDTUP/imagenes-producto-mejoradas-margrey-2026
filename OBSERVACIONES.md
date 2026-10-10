@@ -81,3 +81,11 @@ Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente p
 ## Cool Grey — 1 pieza
 
 Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Blanco exacto pendiente de verificación.
+
+## Cool Grey — 20ml
+
+Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre parcialmente oculto por colgante (HAPPY visible), no reconstruido. Producto completo. Revisión de etiqueta pendiente por detalles pequeños y marcas. Blanco exacto pendiente de verificación.
+
+## Cool Grey — 1 pieza
+
+Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Blanco exacto pendiente de verificación.
