@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 36,
-  "imagenes_publicadas_verificadas": 30,
+  "imagenes_generadas": 42,
+  "imagenes_publicadas_verificadas": 36,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Brillo Platinum 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Brillo Platinum 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Brillo Platinum 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Car Wash 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Car Wash 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Car Wash 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Car Wash Galón 3.8L.png",
       "imagen": 1,
@@ -893,8 +857,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Brillo Platinum 1L.png",
-    "Car Wash 1L.png",
     "Car Wash Galón 3.8L.png",
     "Cera Liquida 500ml.png",
     "Cera Rápida 600ml.png",
@@ -944,9 +906,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 12,
-  "ultimo_commit_verificado": "bba0bfbca0ea0499d460dd49d140b72f5ff7138b",
-  "generaciones_totales_incluidas_correcciones": 38,
+  "portadas_con_tres_imagenes": 14,
+  "ultimo_commit_verificado": "aee82e661758cccffbb262f52d0c604924db1b0a",
+  "generaciones_totales_incluidas_correcciones": 44,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -995,6 +957,14 @@
     {
       "referencia": "Blister Crema y Repelente.jpg",
       "observacion": "Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Brillo Platinum 1L.png",
+      "observacion": "Identidad y presentación coinciden. Envase lechoso y código de lote/caducidad conservados; producto entero, etiqueta visible y composiciones distintas. Revisión de etiqueta y código impreso pendiente por variaciones pequeñas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+    },
+    {
+      "referencia": "Car Wash 1L.png",
+      "observacion": "Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
     }
   ]
 }
