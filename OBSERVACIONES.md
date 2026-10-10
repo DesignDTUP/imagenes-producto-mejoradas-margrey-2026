@@ -65,3 +65,11 @@ Producto completo y estilos distintos. Revisión de etiqueta pendiente: textos p
 ## Bubble Wash — 1.89L
 
 Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación.
+
+## Cera en Pasta — 355ml
+
+Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Blanco exacto pendiente de verificación.
+
+## Cera Líquida — 500ml
+
+Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación.

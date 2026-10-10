@@ -5,29 +5,11 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 48,
-  "imagenes_publicadas_verificadas": 42,
+  "imagenes_generadas": 54,
+  "imagenes_publicadas_verificadas": 48,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
     {
-      "referencia": "Cera Liquida 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cera Liquida 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cera Liquida 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
       "referencia": "Cera Rápida 600ml.png",
       "imagen": 1,
       "archivo": "01_Ecommerce.png",
@@ -41,24 +23,6 @@
     },
     {
       "referencia": "Cera Rápida 600ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cera en Pasta.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cera en Pasta.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Cera en Pasta.png",
       "imagen": 3,
       "archivo": "03_Creativa.png",
       "carpeta_pendiente_inspeccion": true
@@ -821,9 +785,7 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Cera Liquida 500ml.png",
     "Cera Rápida 600ml.png",
-    "Cera en Pasta.png",
     "Cool Grey (2).png",
     "Cool Grey Banana.png",
     "Cool Grey Carro Nuevo.png",
@@ -868,9 +830,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 16,
-  "ultimo_commit_verificado": "7db778b4d4339ddd3dfa400b9f8f88440ba05cce",
-  "generaciones_totales_incluidas_correcciones": 50,
+  "portadas_con_tres_imagenes": 18,
+  "ultimo_commit_verificado": "98876ba7bc4944a477f9ba4290a3519e43970b1a",
+  "generaciones_totales_incluidas_correcciones": 56,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -935,6 +897,14 @@
     {
       "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
       "observacion": "Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Cera en Pasta.png",
+      "observacion": "Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Blanco exacto pendiente de verificación."
+    },
+    {
+      "referencia": "Cera Liquida 500ml.png",
+      "observacion": "Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación."
     }
   ]
 }

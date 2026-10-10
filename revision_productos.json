@@ -206,5 +206,31 @@
     ],
     "review": "Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación.",
     "inspected": true
+  },
+  {
+    "reference": "Cera en Pasta.png",
+    "product": "Cera en Pasta",
+    "presentation": "355ml",
+    "folder": "Cera en Pasta/355ml",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/papercut"
+    ],
+    "review": "Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Blanco exacto pendiente de verificación.",
+    "inspected": true
+  },
+  {
+    "reference": "Cera Liquida 500ml.png",
+    "product": "Cera Líquida",
+    "presentation": "500ml",
+    "folder": "Cera Líquida/500ml",
+    "styles": [
+      "/ecommerce",
+      "/blackluxury",
+      "/gradient"
+    ],
+    "review": "Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación.",
+    "inspected": true
   }
 ]
