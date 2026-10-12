@@ -1,280 +1,393 @@
 {
   "proyecto": "Imágenes Producto mejoradas MARGREY 2026",
-  "estado": "en proceso",
+  "estado": "generación inicial completa; correcciones y revisión pendientes",
   "archivos_encontrados": 120,
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 180,
-  "imagenes_publicadas_verificadas": 174,
+  "imagenes_generadas": 183,
+  "imagenes_publicadas_verificadas": 180,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
-  "pendientes_generacion": [
-    {
-      "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    }
-  ],
-  "referencias_pendientes_de_clasificar": [
-    "Wiper Cleaner 1L.png"
-  ],
+  "pendientes_generacion": [],
+  "referencias_pendientes_de_clasificar": [],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 60,
-  "ultimo_commit_verificado": "7fce1dc7345c60646525af42b534d41e0081ed3a",
-  "generaciones_totales_incluidas_correcciones": 182,
+  "portadas_con_tres_imagenes": 61,
+  "ultimo_commit_verificado": "2407ac8e56b769bf7d748cbe6dac7724e049af62",
+  "generaciones_totales_incluidas_correcciones": 185,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
-      "observacion": "Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente."
+      "observacion": "Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Afloja Fácil.png",
-      "observacion": "Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente."
+      "observacion": "Producto completo, conserva tapa y tubo rojo original. Presentación identificada en la etiqueta, ausente en el nombre del archivo. Revisión de etiqueta pendiente en textos pequeños. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Alumbra 1L.png",
-      "observacion": "Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de etiqueta pendiente por variaciones tipográficas y gráficas. Principal sin decoraciones exteriores, fondo exacto #FFFFFF pendiente de validación/corrección."
+      "observacion": "Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de etiqueta pendiente por variaciones tipográficas y gráficas. Principal sin decoraciones exteriores, fondo exacto #FFFFFF pendiente de validación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Aluminox 1L.png",
-      "observacion": "Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación."
+      "observacion": "Discrepancia: archivo Aluminox; etiqueta fotografiada ALUMINIOX. Se conserva identidad fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones gráficas y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de corrección/verificación. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Aroma Vainilla 1L.png",
-      "observacion": "Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Auto Brillo S Spray 473ml.png",
-      "observacion": "Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Discrepancia: archivo indica 473ml, etiqueta 495 mL / 16.73 oz. Se conserva la presentación fotografiada. Producto completo y estilos distintos. Revisión de etiqueta pendiente en pequeños textos y detalles gráficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Autobrillo A 1L.png",
-      "observacion": "Identidad y presentación coinciden. Producto completo en tres imágenes; estilos y composiciones distintos. Revisión de etiqueta pendiente por detalles tipográficos y fotos impresas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Identidad y presentación coinciden. Producto completo en tres imágenes; estilos y composiciones distintos. Revisión de etiqueta pendiente por detalles tipográficos y fotos impresas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Autobrillo A 500ml.png",
-      "observacion": "Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Discrepancia: archivo Autobrillo A; etiqueta BRILLANTADOR, botella clara con base blanca. Se conserva el producto fotografiado. Tres imágenes completas y estilos distintos. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Autobrillo Atomizable 600ml.png",
-      "observacion": "Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visible, estilos diferenciados. Revisión de etiqueta pendiente por detalles pequeños y dibujo impreso. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visible, estilos diferenciados. Revisión de etiqueta pendiente por detalles pequeños y dibujo impreso. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Autobrillo S Original 1L.png",
-      "observacion": "Botella transparente de contenido azul y tapa negra conservadas. La etiqueta enumera 1L, 5L y 25L sin selección inequívoca; se mantiene intacta esa línea. Producto completo y estilos diferenciados. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Botella transparente de contenido azul y tapa negra conservadas. La etiqueta enumera 1L, 5L y 25L sin selección inequívoca; se mantiene intacta esa línea. Producto completo y estilos diferenciados. Revisión de etiqueta pendiente. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Autobrillo S Original 500ml.png",
-      "observacion": "Identidad y presentación coinciden. Producto completo, contenido azul y textura impresa conservados, estilos distintos. Revisión de etiqueta pendiente en detalles pequeños y textos laterales. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Identidad y presentación coinciden. Producto completo, contenido azul y textura impresa conservados, estilos distintos. Revisión de etiqueta pendiente en detalles pequeños y textos laterales. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Blister Crema y Repelente.jpg",
-      "observacion": "Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Brillo Platinum 1L.png",
-      "observacion": "Identidad y presentación coinciden. Envase lechoso y código de lote/caducidad conservados; producto entero, etiqueta visible y composiciones distintas. Revisión de etiqueta y código impreso pendiente por variaciones pequeñas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Identidad y presentación coinciden. Envase lechoso y código de lote/caducidad conservados; producto entero, etiqueta visible y composiciones distintas. Revisión de etiqueta y código impreso pendiente por variaciones pequeñas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Car Wash 1L.png",
-      "observacion": "Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección."
+      "observacion": "Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Car Wash Galón 3.8L.png",
-      "observacion": "Producto completo y estilos distintos. Revisión de etiqueta pendiente: textos pequeños y códigos deformados. Fondo blanco exacto pendiente de verificación."
+      "observacion": "Producto completo y estilos distintos. Revisión de etiqueta pendiente: textos pequeños y códigos deformados. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
-      "observacion": "Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación."
+      "observacion": "Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cera en Pasta.png",
-      "observacion": "Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Blanco exacto pendiente de verificación."
+      "observacion": "Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,253. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cera Liquida 500ml.png",
-      "observacion": "Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación."
+      "observacion": "Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cera Rápida 600ml.png",
-      "observacion": "Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente por texto pequeño y detalles impresos. Blanco exacto pendiente de verificación."
+      "observacion": "Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente por texto pequeño y detalles impresos. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cool Grey (2).png",
-      "observacion": "Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Blanco exacto pendiente de verificación."
+      "observacion": "Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cool Grey Banana.png",
-      "observacion": "Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre parcialmente oculto por colgante (HAPPY visible), no reconstruido. Producto completo. Revisión de etiqueta pendiente por detalles pequeños y marcas. Blanco exacto pendiente de verificación."
+      "observacion": "Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre parcialmente oculto por colgante (HAPPY visible), no reconstruido. Producto completo. Revisión de etiqueta pendiente por detalles pequeños y marcas. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cool Grey Carro Nuevo.png",
-      "observacion": "Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Blanco exacto pendiente de verificación."
+      "observacion": "Identidad NEW CAR y una pieza conservadas. Producto completo, estilos diferentes. Revisión de etiqueta pendiente por detalles gráficos y tipografía pequeña. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cool Grey Cereza.png",
-      "observacion": "Producto completo, identidad CHERRY preservada con oclusión original del colgante. Revisión de etiqueta pendiente por detalles gráficos pequeños. Blanco exacto pendiente de verificación."
+      "observacion": "Producto completo, identidad CHERRY preservada con oclusión original del colgante. Revisión de etiqueta pendiente por detalles gráficos pequeños. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Cool Grey.png",
-      "observacion": "Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación."
+      "observacion": "Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Crema Quita Gotas 300ml.png",
-      "observacion": "Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Blanco exacto pendiente de verificación."
+      "observacion": "Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Desgramot 1L.png",
-      "observacion": "Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática."
+      "observacion": "Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas.  Segunda imagen recuperada tras interrupción por límite de revisión automática. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Esponjas Blancas.png",
-      "observacion": "Tres esponjas completas, sin etiqueta ni marca en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Estilos distintos y tercera cenital. Blanco exacto pendiente de verificación."
+      "observacion": "Tres esponjas completas, sin etiqueta ni marca en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Estilos distintos y tercera cenital. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,254,253. Corrección de fondo pendiente."
     },
     {
       "referencia": "Esponjas Rojas.png",
-      "observacion": "Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Blanco exacto pendiente de verificación."
+      "observacion": "Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Fin Gras 1L.png",
-      "observacion": "Botella completa y estilos diferentes. Revisión de etiqueta pendiente por pequeños cambios gráficos y signo de marca. Blanco exacto pendiente de verificación."
+      "observacion": "Botella completa y estilos diferentes. Revisión de etiqueta pendiente por pequeños cambios gráficos y signo de marca. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Fino Touch 500ml.png",
-      "observacion": "Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Blanco exacto pendiente de verificación."
+      "observacion": "Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Gel Azul 500ml.png",
-      "observacion": "Producto completo, nombre y presentación correctos. Revisión de etiqueta pendiente por variación del coche y detalles finos. Blanco exacto pendiente de verificación."
+      "observacion": "Producto completo, nombre y presentación correctos. Revisión de etiqueta pendiente por variación del coche y detalles finos. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Gras Fin 1L.png",
-      "observacion": "Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación."
+      "observacion": "Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Leather Clean 250ml.png",
-      "observacion": "Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Blanco exacto pendiente de verificación."
+      "observacion": "Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Lubricante 60ml.png",
-      "observacion": "Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Blanco exacto pendiente de verificación."
+      "observacion": "Frasco completo con líquido violeta y burbujas internas. Revisión de etiqueta pendiente por texto pequeño y coche impreso. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Mano Clean 1kg.png",
-      "observacion": "Discrepancia: archivo 1kg pero etiqueta fotografiada Cont.Net.1L; se conserva 1L. Tarro completo. Revisión de etiqueta pendiente: columnas laterales, símbolos y código de barras. Blanco exacto pendiente de verificación."
+      "observacion": "Discrepancia: archivo 1kg pero etiqueta fotografiada Cont.Net.1L; se conserva 1L. Tarro completo. Revisión de etiqueta pendiente: columnas laterales, símbolos y código de barras. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,254,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Microfibra.png",
-      "observacion": "Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente."
+      "observacion": "Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,254,253. Corrección de fondo pendiente."
     },
     {
       "referencia": "Oil Restorer 50ml.png",
-      "observacion": "Discrepancia: archivo 50ml, etiqueta Cont. Neto 55 mL. Conservada identidad y presentación fotografiada de 55 mL, bomba negra con tapa transparente. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones en detalles pequeños; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Discrepancia: archivo 50ml, etiqueta Cont. Neto 55 mL. Conservada identidad y presentación fotografiada de 55 mL, bomba negra con tapa transparente. Producto completo y estilos distintos. Revisión de etiqueta pendiente por variaciones en detalles pequeños; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Plastimagic 100g.png",
-      "observacion": "Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Plastimagic 200g.png",
-      "observacion": "Tarro completo, etiqueta azul negra con coche impreso; 200 g / 7.1 Oz conservados. Esta referencia no muestra sello exterior. Estilos diferenciados. Revisión de etiqueta pendiente por detalles gráficos y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Tarro completo, etiqueta azul negra con coche impreso; 200 g / 7.1 Oz conservados. Esta referencia no muestra sello exterior. Estilos diferenciados. Revisión de etiqueta pendiente por detalles gráficos y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Polish Blanco 300ml.png",
-      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Polish Rojo 300ml.png",
-      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada y presentación 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Tarro completo y estilos distintos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada y presentación 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Tarro completo y estilos distintos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Polish Rosa 300ml.png",
-      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "prelavador.jpg",
-      "observacion": "Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Pulimento 3 en 1 500ml.png",
-      "observacion": "Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Pulimento Azul 500ml.png",
-      "observacion": "Botella completa con contenido cian y tapa negra conservados. Etiqueta vertical y presentación 500 ml visibles. Composiciones distintas. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella completa con contenido cian y tapa negra conservados. Etiqueta vertical y presentación 500 ml visibles. Composiciones distintas. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Pulimento Blanco 500ml.png",
-      "observacion": "Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Pulimento Rosa 500ml.png",
-      "observacion": "Botella completa con tapa negra y contenido rosa conservados. Presentación 500 ml y nombre visibles; estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella completa con tapa negra y contenido rosa conservados. Presentación 500 ml y nombre visibles; estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Pum Shampoo.png",
-      "observacion": "Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Qiuta Gotas 500ml.png",
-      "observacion": "Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Quita Goma 130ml.png",
-      "observacion": "Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Quita Gotas 130ml.png",
-      "observacion": "Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 252,253,253. Corrección de fondo pendiente."
     },
     {
       "referencia": "Repelente de Agua 130ml.png",
-      "observacion": "Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Restaurador de Faros 130ml.png",
-      "observacion": "Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil rojo conservados. 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil rojo conservados. 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Restaurador de Faros 250ml.png",
-      "observacion": "Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Rines Motores y Llantas 600ml.png",
-      "observacion": "Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+      "observacion": "Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "Shampoo Cera Platinum 1L.png",
-      "observacion": "El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
+      "observacion": "El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente."
     },
     {
       "referencia": "shampoo con cera.png",
-      "observacion": "Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de corrección."
+      "observacion": "Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,253. Corrección de fondo pendiente."
     },
     {
       "referencia": "Silicrem 1kg.png",
-      "observacion": "Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación."
+      "observacion": "Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Silicrem 300ml.png",
-      "observacion": "Discrepancia: archivo 300ml, etiqueta CONT. NET. 300 g / 10.58 oz; se conserva la presentación fotografiada de 300 g. La referencia ya contiene frases pequeñas irregulares; no se interpretan como especificaciones verificadas. Variaciones de texto pequeño y gráficos: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
+      "observacion": "Discrepancia: archivo 300ml, etiqueta CONT. NET. 300 g / 10.58 oz; se conserva la presentación fotografiada de 300 g. La referencia ya contiene frases pequeñas irregulares; no se interpretan como especificaciones verificadas. Variaciones de texto pequeño y gráficos: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente."
     },
     {
       "referencia": "Super Corte 250ml.png",
-      "observacion": "Se conserva botella blanca de 250 ml con tapa abatible negra y etiqueta frontal. Pequeñas variaciones en el gráfico inferior, automóvil y tipografía fina: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
+      "observacion": "Se conserva botella blanca de 250 ml con tapa abatible negra y etiqueta frontal. Pequeñas variaciones en el gráfico inferior, automóvil y tipografía fina: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,255. Corrección de fondo pendiente."
+    },
+    {
+      "referencia": "Wiper Cleaner 1L.png",
+      "observacion": "Botella transparente con líquido verde, tapa negra y etiqueta de 1 L conservadas como identidad. Variaciones pequeñas del automóvil, icono y tipografía: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente."
     }
-  ]
+  ],
+  "imagenes_aprobadas_ecommerce": 0,
+  "pendientes_correccion_fondo": [
+    "Abrillantador QM/500ml/01_Ecommerce.png",
+    "Afloja Fácil/296ml/01_Ecommerce.png",
+    "Alumbra/1L/01_Ecommerce.png",
+    "Aluminiox/1L/01_Ecommerce.png",
+    "Aromatizante/1L/Vainilla/01_Ecommerce.png",
+    "Autobrillo A/1L/01_Ecommerce.png",
+    "Autobrillo Atomizable/600ml/01_Ecommerce.png",
+    "Autobrillo S Original/1L/01_Ecommerce.png",
+    "Autobrillo S Original/500ml/01_Ecommerce.png",
+    "Autobrillo-S Spray/495ml/01_Ecommerce.png",
+    "Blister Crema y Repelente/2 x 130ml/01_Ecommerce.png",
+    "Brillantador/500ml/01_Ecommerce.png",
+    "Brillo Platinum/1L/01_Ecommerce.png",
+    "Bubble Wash/1.89L/01_Ecommerce.png",
+    "Car Wash/1L/01_Ecommerce.png",
+    "Car Wash/3.8L/01_Ecommerce.png",
+    "Cera en Pasta/355ml/01_Ecommerce.png",
+    "Cera Líquida/500ml/01_Ecommerce.png",
+    "Cera Rápida/600ml/01_Ecommerce.png",
+    "Cool Grey/1 pieza/Berry/01_Ecommerce.png",
+    "Cool Grey/1 pieza/Cherry/01_Ecommerce.png",
+    "Cool Grey/1 pieza/New Car/01_Ecommerce.png",
+    "Cool Grey/1 pieza/Uva Silvestre/01_Ecommerce.png",
+    "Cool Grey/20ml/Banana/01_Ecommerce.png",
+    "Crema Quita Gotas/300ml/01_Ecommerce.png",
+    "Desgra-Mot/1L/01_Ecommerce.png",
+    "Esponjas Blancas/3 piezas fotografiadas/01_Ecommerce.png",
+    "Esponjas Rojas/2 piezas fotografiadas/01_Ecommerce.png",
+    "Fin Gras/1L/01_Ecommerce.png",
+    "Fino Touch Carnauba/500ml/01_Ecommerce.png",
+    "Gel Azul/500ml/01_Ecommerce.png",
+    "Gras-Fin/1L/01_Ecommerce.png",
+    "Leather Clean/250ml/01_Ecommerce.png",
+    "Lubricante para Plasti-Magic/60ml/01_Ecommerce.png",
+    "Mano Clean/1L/01_Ecommerce.png",
+    "Microfibra/4 piezas fotografiadas/01_Ecommerce.png",
+    "Oil Restorer/55ml/01_Ecommerce.png",
+    "Plasti-Magic/100g/01_Ecommerce.png",
+    "Plasti-Magic/200g/01_Ecommerce.png",
+    "Polish Blanco/300g/01_Ecommerce.png",
+    "Polish Rojo/300g/01_Ecommerce.png",
+    "Polish Rosa/300g/01_Ecommerce.png",
+    "Pre-Lavado/1L/01_Ecommerce.png",
+    "Pulimento 3 en 1/500ml/01_Ecommerce.png",
+    "Pulimento Azul/500ml/01_Ecommerce.png",
+    "Pulimento Blanco/500ml/01_Ecommerce.png",
+    "Pulimento Rosa/500ml/01_Ecommerce.png",
+    "PUM Easy Cleaning/600ml/01_Ecommerce.png",
+    "Quita Goma/130ml/01_Ecommerce.png",
+    "Quita Gotas/130ml/01_Ecommerce.png",
+    "Quita-Gotas/500ml/01_Ecommerce.png",
+    "Repelente de Agua/130ml/01_Ecommerce.png",
+    "Restaurador de Faros/130ml/01_Ecommerce.png",
+    "Restaurador de Faros/250ml/01_Ecommerce.png",
+    "Rines Motores y Llantas/600ml/01_Ecommerce.png",
+    "Shampoo con Cera/1L/01_Ecommerce.png",
+    "Shampoo con Cera Carnauba/1L/01_Ecommerce.png",
+    "Silicrem/1kg/01_Ecommerce.png",
+    "Silicrem/300g/01_Ecommerce.png",
+    "Super Corte/250ml/01_Ecommerce.png",
+    "Wiper Cleaner/1L/01_Ecommerce.png"
+  ],
+  "referencias_revision_etiqueta": [
+    "Abrillantador QM 500ml.png",
+    "Afloja Fácil.png",
+    "Alumbra 1L.png",
+    "Aluminox 1L.png",
+    "Aroma Vainilla 1L.png",
+    "Auto Brillo S Spray 473ml.png",
+    "Autobrillo A 1L.png",
+    "Autobrillo A 500ml.png",
+    "Autobrillo Atomizable 600ml.png",
+    "Autobrillo S Original 1L.png",
+    "Autobrillo S Original 500ml.png",
+    "Blister Crema y Repelente.jpg",
+    "Brillo Platinum 1L.png",
+    "Car Wash 1L.png",
+    "Car Wash Galón 3.8L.png",
+    "cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c2810de6.png",
+    "Cera en Pasta.png",
+    "Cera Liquida 500ml.png",
+    "Cera Rápida 600ml.png",
+    "Cool Grey (2).png",
+    "Cool Grey Banana.png",
+    "Cool Grey Carro Nuevo.png",
+    "Cool Grey Cereza.png",
+    "Cool Grey.png",
+    "Crema Quita Gotas 300ml.png",
+    "Desgramot 1L.png",
+    "Fin Gras 1L.png",
+    "Fino Touch 500ml.png",
+    "Gel Azul 500ml.png",
+    "Gras Fin 1L.png",
+    "Leather Clean 250ml.png",
+    "Lubricante 60ml.png",
+    "Mano Clean 1kg.png",
+    "Oil Restorer 50ml.png",
+    "Plastimagic 100g.png",
+    "Plastimagic 200g.png",
+    "Polish Blanco 300ml.png",
+    "Polish Rojo 300ml.png",
+    "Polish Rosa 300ml.png",
+    "prelavador.jpg",
+    "Pulimento 3 en 1 500ml.png",
+    "Pulimento Azul 500ml.png",
+    "Pulimento Blanco 500ml.png",
+    "Pulimento Rosa 500ml.png",
+    "Pum Shampoo.png",
+    "Qiuta Gotas 500ml.png",
+    "Quita Goma 130ml.png",
+    "Quita Gotas 130ml.png",
+    "Repelente de Agua 130ml.png",
+    "Restaurador de Faros 130ml.png",
+    "Restaurador de Faros 250ml.png",
+    "Rines Motores y Llantas 600ml.png",
+    "Shampoo Cera Platinum 1L.png",
+    "shampoo con cera.png",
+    "Silicrem 1kg.png",
+    "Silicrem 300ml.png",
+    "Super Corte 250ml.png",
+    "Wiper Cleaner 1L.png"
+  ],
+  "imagenes_pendientes_publicacion": [
+    "Wiper Cleaner/1L/01_Ecommerce.png",
+    "Wiper Cleaner/1L/02_Creativa.png",
+    "Wiper Cleaner/1L/03_Creativa.png"
+  ],
+  "nota_conteos": "pendientes_generacion enumera las posiciones aún vacías del objetivo de 183; las correcciones y revisiones se registran por separado."
 }

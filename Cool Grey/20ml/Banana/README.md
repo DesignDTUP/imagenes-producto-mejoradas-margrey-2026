@@ -8,6 +8,6 @@ Referencia: margrey/Cool Grey Banana.png. Inspeccionada visualmente antes de gen
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre parcialmente oculto por colgante (HAPPY visible), no reconstruido. Producto completo. Revisión de etiqueta pendiente por detalles pequeños y marcas. Blanco exacto pendiente de verificación.
+Presentación 20 mL visible. Aroma Banana según archivo y gráficos; nombre parcialmente oculto por colgante (HAPPY visible), no reconstruido. Producto completo. Revisión de etiqueta pendiente por detalles pequeños y marcas. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

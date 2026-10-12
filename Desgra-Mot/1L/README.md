@@ -8,6 +8,6 @@ Referencia: margrey/Desgramot 1L.png. Inspeccionada visualmente antes de generar
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas. Blanco exacto pendiente de verificación. Segunda imagen recuperada tras interrupción por límite de revisión automática.
+Botella completa y composiciones distintas. Revisión de etiqueta pendiente por letras laterales y pequeñas deformadas.  Segunda imagen recuperada tras interrupción por límite de revisión automática. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

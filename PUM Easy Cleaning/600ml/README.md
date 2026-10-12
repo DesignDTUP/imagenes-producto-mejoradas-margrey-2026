@@ -8,6 +8,6 @@ Referencia: margrey/Pum Shampoo.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

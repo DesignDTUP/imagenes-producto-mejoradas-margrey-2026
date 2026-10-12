@@ -8,6 +8,6 @@ Referencia: margrey/Aroma Vainilla 1L.png. Inspeccionada visualmente antes de ge
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+Producto completo, botella roja y flor amarilla impresa conservadas; estilos distintos. Revisión de etiqueta pendiente en textos pequeños y código de barras. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

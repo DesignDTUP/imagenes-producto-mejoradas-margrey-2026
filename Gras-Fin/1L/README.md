@@ -8,6 +8,6 @@ Referencia: margrey/Gras Fin 1L.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Blanco exacto pendiente de verificación.
+Identidad GRAS-FIN morado distinta de FIN GRAS rojo conservada. Producto completo. Revisión de etiqueta pendiente por detalles gráficos y tipográficos. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

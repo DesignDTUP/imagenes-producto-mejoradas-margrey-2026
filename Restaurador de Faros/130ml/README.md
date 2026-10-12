@@ -8,6 +8,6 @@ Referencia: margrey/Restaurador de Faros 130ml.png. Inspeccionada visualmente an
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil rojo conservados. 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil rojo conservados. 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

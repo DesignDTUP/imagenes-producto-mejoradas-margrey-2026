@@ -8,6 +8,6 @@ Referencia: margrey/Fin Gras 1L.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa y estilos diferentes. Revisión de etiqueta pendiente por pequeños cambios gráficos y signo de marca. Blanco exacto pendiente de verificación.
+Botella completa y estilos diferentes. Revisión de etiqueta pendiente por pequeños cambios gráficos y signo de marca. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

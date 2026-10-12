@@ -8,6 +8,6 @@ Referencia: margrey/shampoo con cera.png. Inspeccionada visualmente antes de gen
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de corrección.
+Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,253. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

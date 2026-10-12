@@ -1,0 +1,801 @@
+{
+  "fecha": "2026-10-12",
+  "metodo": "Lectura de píxeles sin modificar imágenes. Se muestrean las cuatro esquinas y el centro del borde superior, en ese orden. RGB esperado: 255,255,255. Basta una muestra distinta para detectar que el fondo no es completamente blanco puro; este muestreo no valida todos los píxeles.",
+  "imagenes_muestreadas": 61,
+  "cumplen_muestras": 0,
+  "imagenes": [
+    {
+      "archivo": "Abrillantador QM/500ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,254",
+        "254,253,253",
+        "254,253,254",
+        "254,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Afloja Fácil/296ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,254,253",
+        "254,253,254",
+        "254,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Alumbra/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "254,255,255",
+        "253,253,253",
+        "254,253,254",
+        "254,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aluminiox/1L/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,253,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aromatizante/1L/Vainilla/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "254,255,255",
+        "254,253,254",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo A/1L/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "255,255,254",
+        "253,253,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo Atomizable/600ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,253,254",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,255",
+        "254,254,254",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/500ml/01_Ecommerce.png",
+      "muestras": [
+        "253,253,255",
+        "254,255,255",
+        "253,253,253",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo-S Spray/495ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,254",
+        "254,253,254",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Blister Crema y Repelente/2 x 130ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "254,255,255",
+        "254,254,254",
+        "254,253,254",
+        "254,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillantador/500ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,254,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillo Platinum/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "254,255,255",
+        "254,253,254",
+        "254,253,254",
+        "254,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Bubble Wash/1.89L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,255",
+        "254,253,253",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/1L/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,253,253",
+        "253,253,253",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/3.8L/01_Ecommerce.png",
+      "muestras": [
+        "253,253,254",
+        "254,255,255",
+        "254,254,254",
+        "253,253,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera en Pasta/355ml/01_Ecommerce.png",
+      "muestras": [
+        "254,253,253",
+        "255,255,255",
+        "253,253,253",
+        "253,253,253",
+        "254,254,253"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Líquida/500ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,253,254",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Rápida/600ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "254,255,255",
+        "254,254,254",
+        "254,253,254",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Berry/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,254",
+        "254,254,254",
+        "254,253,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Cherry/01_Ecommerce.png",
+      "muestras": [
+        "253,253,255",
+        "255,255,255",
+        "254,254,254",
+        "253,253,253",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/New Car/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,254",
+        "254,254,254",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Uva Silvestre/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,254",
+        "254,254,254",
+        "253,253,253",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/20ml/Banana/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "253,253,253",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Crema Quita Gotas/300ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "255,255,254",
+        "254,253,253",
+        "253,253,254",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Desgra-Mot/1L/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "254,255,254",
+        "253,254,253",
+        "254,253,254",
+        "254,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Blancas/3 piezas fotografiadas/01_Ecommerce.png",
+      "muestras": [
+        "254,254,253",
+        "255,255,254",
+        "254,254,254",
+        "254,254,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Rojas/2 piezas fotografiadas/01_Ecommerce.png",
+      "muestras": [
+        "254,253,255",
+        "255,255,255",
+        "255,254,254",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fin Gras/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,255",
+        "254,253,253",
+        "254,253,254",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fino Touch Carnauba/500ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,255",
+        "254,254,253",
+        "253,253,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gel Azul/500ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "254,255,255",
+        "254,254,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gras-Fin/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,254",
+        "254,253,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Leather Clean/250ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,254",
+        "254,253,253",
+        "254,254,254",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Lubricante para Plasti-Magic/60ml/01_Ecommerce.png",
+      "muestras": [
+        "255,255,254",
+        "254,255,254",
+        "254,254,253",
+        "254,253,254",
+        "254,255,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Mano Clean/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,254,255",
+        "255,255,254",
+        "254,253,253",
+        "253,252,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Microfibra/4 piezas fotografiadas/01_Ecommerce.png",
+      "muestras": [
+        "254,254,253",
+        "255,255,255",
+        "254,253,253",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Oil Restorer/55ml/01_Ecommerce.png",
+      "muestras": [
+        "255,255,254",
+        "255,255,255",
+        "253,254,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/100g/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "254,255,254",
+        "254,253,253",
+        "254,253,254",
+        "255,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/200g/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "254,255,254",
+        "254,254,253",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Blanco/300g/01_Ecommerce.png",
+      "muestras": [
+        "254,253,255",
+        "255,255,254",
+        "253,253,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rojo/300g/01_Ecommerce.png",
+      "muestras": [
+        "253,253,255",
+        "255,255,254",
+        "254,254,254",
+        "253,253,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rosa/300g/01_Ecommerce.png",
+      "muestras": [
+        "253,253,255",
+        "255,255,255",
+        "253,253,253",
+        "253,253,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pre-Lavado/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,254",
+        "254,254,253",
+        "254,253,253",
+        "255,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento 3 en 1/500ml/01_Ecommerce.png",
+      "muestras": [
+        "255,255,255",
+        "255,255,255",
+        "254,254,254",
+        "253,253,253",
+        "255,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Azul/500ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,255",
+        "254,253,253",
+        "254,253,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Blanco/500ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,254",
+        "254,253,253",
+        "254,253,254",
+        "255,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Rosa/500ml/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "254,255,255",
+        "254,254,254",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "PUM Easy Cleaning/600ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,255",
+        "254,253,253",
+        "254,253,254",
+        "254,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Goma/130ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "254,255,254",
+        "254,254,253",
+        "254,253,254",
+        "254,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Gotas/130ml/01_Ecommerce.png",
+      "muestras": [
+        "252,253,253",
+        "254,254,254",
+        "254,253,253",
+        "252,252,253",
+        "253,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita-Gotas/500ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "254,255,254",
+        "254,253,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Repelente de Agua/130ml/01_Ecommerce.png",
+      "muestras": [
+        "255,255,254",
+        "255,255,255",
+        "254,254,254",
+        "254,254,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/130ml/01_Ecommerce.png",
+      "muestras": [
+        "254,253,254",
+        "255,255,255",
+        "254,254,253",
+        "254,254,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/250ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,255",
+        "254,254,254",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Rines Motores y Llantas/600ml/01_Ecommerce.png",
+      "muestras": [
+        "253,255,255",
+        "255,255,254",
+        "254,254,254",
+        "254,254,254",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Shampoo con Cera/1L/01_Ecommerce.png",
+      "muestras": [
+        "254,255,255",
+        "255,255,255",
+        "254,254,253",
+        "254,253,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Shampoo con Cera Carnauba/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,253,253",
+        "254,255,255",
+        "254,254,253",
+        "253,253,253",
+        "254,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 914,
+      "alto": 1720
+    },
+    {
+      "archivo": "Silicrem/1kg/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "255,255,254",
+        "253,253,253",
+        "253,253,254",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Silicrem/300g/01_Ecommerce.png",
+      "muestras": [
+        "254,255,254",
+        "255,255,254",
+        "253,253,253",
+        "253,253,253",
+        "255,254,255"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Super Corte/250ml/01_Ecommerce.png",
+      "muestras": [
+        "255,255,255",
+        "255,255,255",
+        "254,254,253",
+        "254,254,254",
+        "255,254,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Wiper Cleaner/1L/01_Ecommerce.png",
+      "muestras": [
+        "253,255,254",
+        "255,255,255",
+        "253,253,253",
+        "254,253,254",
+        "255,255,254"
+      ],
+      "muestras_blanco_puro": false,
+      "ancho": 1254,
+      "alto": 1254
+    }
+  ]
+}

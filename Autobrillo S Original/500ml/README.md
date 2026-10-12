@@ -8,6 +8,6 @@ Referencia: margrey/Autobrillo S Original 500ml.png. Inspeccionada visualmente a
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identidad y presentación coinciden. Producto completo, contenido azul y textura impresa conservados, estilos distintos. Revisión de etiqueta pendiente en detalles pequeños y textos laterales. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+Identidad y presentación coinciden. Producto completo, contenido azul y textura impresa conservados, estilos distintos. Revisión de etiqueta pendiente en detalles pequeños y textos laterales. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

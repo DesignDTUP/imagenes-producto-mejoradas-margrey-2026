@@ -8,6 +8,6 @@ Referencia: margrey/Silicrem 1kg.png. Inspeccionada visualmente antes de generar
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación.
+Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

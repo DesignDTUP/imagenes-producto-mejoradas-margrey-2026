@@ -8,6 +8,6 @@ Referencia: margrey/Fino Touch 500ml.png. Inspeccionada visualmente antes de gen
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Blanco exacto pendiente de verificación.
+Producto entero, nombre y presentación conservados. Revisión de etiqueta pendiente por distintivo superior y detalles pequeños. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

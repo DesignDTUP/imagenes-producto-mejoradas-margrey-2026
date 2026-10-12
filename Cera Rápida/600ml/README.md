@@ -8,6 +8,6 @@ Referencia: margrey/Cera Rápida 600ml.png. Inspeccionada visualmente antes de g
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente por texto pequeño y detalles impresos. Blanco exacto pendiente de verificación.
+Envase y gatillo completos, estilos distintos. Revisión de etiqueta pendiente por texto pequeño y detalles impresos. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

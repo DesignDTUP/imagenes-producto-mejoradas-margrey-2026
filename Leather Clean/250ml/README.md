@@ -8,6 +8,6 @@ Referencia: margrey/Leather Clean 250ml.png. Inspeccionada visualmente antes de 
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Blanco exacto pendiente de verificación.
+Botella completa con identidad y presentación conservadas. Revisión de etiqueta pendiente por detalles pequeños y diseño del asiento. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

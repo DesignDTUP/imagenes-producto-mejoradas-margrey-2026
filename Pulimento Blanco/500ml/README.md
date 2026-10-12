@@ -8,6 +8,6 @@ Referencia: margrey/Pulimento Blanco 500ml.png. Inspeccionada visualmente antes 
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

@@ -8,6 +8,6 @@ Referencia: margrey/Cool Grey.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Blanco exacto pendiente de verificación.
+Archivo genérico identificado como UVA SILVESTRE. Producto completo, colores y estilo conservados. Revisión de etiqueta pendiente por detalles gráficos y marcas pequeñas. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

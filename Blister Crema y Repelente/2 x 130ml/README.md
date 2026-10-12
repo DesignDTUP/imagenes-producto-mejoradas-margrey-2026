@@ -8,6 +8,6 @@ Referencia: margrey/Blister Crema y Repelente.jpg. Inspeccionada visualmente ant
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+Se conserva el blíster completo con Repelente de Agua y Crema Quita Gotas de 130 mL cada uno. Tres composiciones distintas con ambos productos visibles. Revisión de etiqueta pendiente: variaciones en iconos y textos pequeños. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

@@ -8,6 +8,6 @@ Referencia: margrey/Polish Rosa 300ml.png. Inspeccionada visualmente antes de ge
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,253,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

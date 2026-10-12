@@ -8,6 +8,6 @@ Referencia: margrey/Cera Liquida 500ml.png. Inspeccionada visualmente antes de g
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Blanco exacto pendiente de verificación.
+Producto completo, nombre y presentación conservados. Estilos y composiciones distintos. Revisión de etiqueta pendiente por variaciones finas del coche y tipografía. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

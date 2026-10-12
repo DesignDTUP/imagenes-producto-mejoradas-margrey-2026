@@ -8,6 +8,6 @@ Referencia: margrey/Plastimagic 100g.png. Inspeccionada visualmente antes de gen
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Tarro completo con sello blanco sobre tapa y costado derecho; etiqueta azul negra amarilla y coche rojo impreso. Presentación 100 g / 3.5 Oz conservada. Revisión de etiqueta pendiente: microtexto del sello y detalles gráficos varían. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

@@ -8,6 +8,6 @@ Referencia: margrey/Abrillantador QM 500ml.png. Inspeccionada visualmente antes 
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente.
+Producto completo y estilos diferenciados. Revisión de etiqueta pendiente por variaciones gráficas y tipográficas. Corrección de fondo realizada con image_gen; el fondo aún no es blanco puro #FFFFFF en la esquina comprobada: corrección de fondo pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

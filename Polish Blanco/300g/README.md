@@ -8,6 +8,6 @@ Referencia: margrey/Polish Blanco 300ml.png. Inspeccionada visualmente antes de 
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz; conservada presentación fotografiada 300g. La referencia contiene microtextos irregulares; los resultados también presentan variaciones. Revisión de etiqueta pendiente. Producto completo, estilos distintos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

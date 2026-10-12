@@ -8,6 +8,6 @@ Referencia: margrey/Qiuta Gotas 500ml.png. Inspeccionada visualmente antes de ge
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

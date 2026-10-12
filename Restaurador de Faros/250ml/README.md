@@ -8,6 +8,6 @@ Referencia: margrey/Restaurador de Faros 250ml.png. Inspeccionada visualmente an
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

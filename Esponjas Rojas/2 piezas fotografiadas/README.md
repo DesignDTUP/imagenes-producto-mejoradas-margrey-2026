@@ -8,6 +8,6 @@ Referencia: margrey/Esponjas Rojas.png. Inspeccionada visualmente antes de gener
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Blanco exacto pendiente de verificación.
+Dos discos enteros con textura roja, estilos diferentes. Sin etiqueta en referencia; no corresponde revisión de etiqueta. Cantidad fotografiada no confirma presentación comercial. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

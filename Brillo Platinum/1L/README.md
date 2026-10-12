@@ -8,6 +8,6 @@ Referencia: margrey/Brillo Platinum 1L.png. Inspeccionada visualmente antes de g
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identidad y presentación coinciden. Envase lechoso y código de lote/caducidad conservados; producto entero, etiqueta visible y composiciones distintas. Revisión de etiqueta y código impreso pendiente por variaciones pequeñas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+Identidad y presentación coinciden. Envase lechoso y código de lote/caducidad conservados; producto entero, etiqueta visible y composiciones distintas. Revisión de etiqueta y código impreso pendiente por variaciones pequeñas. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

@@ -8,6 +8,6 @@ Referencia: margrey/Shampoo Cera Platinum 1L.png. Inspeccionada visualmente ante
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.
+El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

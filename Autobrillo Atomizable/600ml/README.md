@@ -8,6 +8,6 @@ Referencia: margrey/Autobrillo Atomizable 600ml.png. Inspeccionada visualmente a
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visible, estilos diferenciados. Revisión de etiqueta pendiente por detalles pequeños y dibujo impreso. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+Identidad y presentación coinciden. Gatillo y envase completos, etiqueta visible, estilos diferenciados. Revisión de etiqueta pendiente por detalles pequeños y dibujo impreso. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

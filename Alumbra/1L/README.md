@@ -8,6 +8,6 @@ Referencia: margrey/Alumbra 1L.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de etiqueta pendiente por variaciones tipográficas y gráficas. Principal sin decoraciones exteriores, fondo exacto #FFFFFF pendiente de validación/corrección.
+Producto correcto y completo; etiqueta visible y estilos distintos. Revisión de etiqueta pendiente por variaciones tipográficas y gráficas. Principal sin decoraciones exteriores, fondo exacto #FFFFFF pendiente de validación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

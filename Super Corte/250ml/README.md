@@ -8,6 +8,6 @@ Referencia: margrey/Super Corte 250ml.png. Inspeccionada visualmente antes de ge
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Se conserva botella blanca de 250 ml con tapa abatible negra y etiqueta frontal. Pequeñas variaciones en el gráfico inferior, automóvil y tipografía fina: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.
+Se conserva botella blanca de 250 ml con tapa abatible negra y etiqueta frontal. Pequeñas variaciones en el gráfico inferior, automóvil y tipografía fina: revisión de etiqueta pendiente. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

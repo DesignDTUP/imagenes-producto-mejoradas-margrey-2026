@@ -8,6 +8,6 @@ Referencia: margrey/Quita Goma 130ml.png. Inspeccionada visualmente antes de gen
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

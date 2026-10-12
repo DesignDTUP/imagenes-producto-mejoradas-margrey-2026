@@ -8,6 +8,6 @@ Referencia: margrey/Microfibra.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Verificación de blanco puro pendiente.
+Cuatro paños amarillos: tres doblados y uno enrollado. Sin etiqueta ni logotipo; revisión de etiqueta no aplicable. Cantidad fotografiada, no confirmada como paquete comercial. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,254,253. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

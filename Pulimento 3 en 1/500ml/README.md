@@ -8,6 +8,6 @@ Referencia: margrey/Pulimento 3 en 1 500ml.png. Inspeccionada visualmente antes 
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 255,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

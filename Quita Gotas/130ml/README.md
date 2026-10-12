@@ -8,6 +8,6 @@ Referencia: margrey/Quita Gotas 130ml.png. Inspeccionada visualmente antes de ge
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 252,253,253. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

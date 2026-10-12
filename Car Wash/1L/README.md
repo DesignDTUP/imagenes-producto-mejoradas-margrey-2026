@@ -8,6 +8,6 @@ Referencia: margrey/Car Wash 1L.png. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección.
+Identidad y presentación coinciden. Producto entero y contenido azul visible conservados, estilos distintos. Revisión de etiqueta pendiente por pequeños detalles gráficos y tipográficos. Principal: fondo exacto #FFFFFF pendiente de verificación/corrección. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

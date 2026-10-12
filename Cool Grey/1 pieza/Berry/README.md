@@ -8,6 +8,6 @@ Referencia: margrey/Cool Grey (2).png. Inspeccionada visualmente antes de genera
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Blanco exacto pendiente de verificación.
+Identificado aroma BERRY en empaque. Paquete y colgante completos, frutas sólo impresas. Revisión de etiqueta pendiente por variaciones del diseño y tipografía pequeña. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

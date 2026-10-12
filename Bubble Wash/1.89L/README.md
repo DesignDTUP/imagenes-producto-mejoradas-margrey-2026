@@ -8,6 +8,6 @@ Referencia: margrey/cbd5bd579c7efe822d2d57787958b80588eb0d838875eb32f41ebea4c281
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Blanco exacto pendiente de verificación.
+Archivo alfanumérico identificado visualmente como Bubble Wash 1.89 L / 64 oz. Producto completo y composiciones diferentes. Revisión de etiqueta pendiente: texto pequeño deformado en creativas. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

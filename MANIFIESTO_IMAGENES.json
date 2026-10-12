@@ -1,0 +1,1286 @@
+{
+  "metodo": "SHA-256 del PNG de entrega; 183 imágenes. Cada archivo de entrega coincide byte a byte con el original generado indicado. Los dos primeros productos conservan además la versión inicial y entregan la revisión 2.",
+  "imagenes": [
+    {
+      "archivo": "Abrillantador QM/500ml/01_Ecommerce.png",
+      "original_generado": "Abrillantador QM/500ml/originales_generados/01_Ecommerce_revision2.png",
+      "sha256": "2ff8d4ca9e6dc9b5b8af87df2712f2e334a98010c43e238e7be7e9ec1d1784a6",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Abrillantador QM/500ml/02_Creativa.png",
+      "original_generado": "Abrillantador QM/500ml/originales_generados/02_Creativa.png",
+      "sha256": "57ddc838bef526002e12dbdacbb25cde6f278fcc05a4f3e9bceea28d3bf1294d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Abrillantador QM/500ml/03_Creativa.png",
+      "original_generado": "Abrillantador QM/500ml/originales_generados/03_Creativa.png",
+      "sha256": "eb64dc106653ac8fb8c7fdf705a3b49053f94550e4c3daae5c1619d46be5b20a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Afloja Fácil/296ml/01_Ecommerce.png",
+      "original_generado": "Afloja Fácil/296ml/originales_generados/01_Ecommerce_revision2.png",
+      "sha256": "5b8c166ab6f5e520ad2f23b0338170a5c294c9cf75bd8c683b2583b9d0669c14",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Afloja Fácil/296ml/02_Creativa.png",
+      "original_generado": "Afloja Fácil/296ml/originales_generados/02_Creativa.png",
+      "sha256": "251c037d75a22620cdbca03117edb4dbb95af757f3cc3c14eb3905120b1b9447",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Afloja Fácil/296ml/03_Creativa.png",
+      "original_generado": "Afloja Fácil/296ml/originales_generados/03_Creativa.png",
+      "sha256": "6e954991384ef7465f1b484d15f768f6ff0259eae4f454e964b2ffbf9aecb0ad",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Alumbra/1L/01_Ecommerce.png",
+      "original_generado": "Alumbra/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "c6cb9c98068f4371df79814d44b5c3a10c686b900ee5da9063aa325ca518624f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Alumbra/1L/02_Creativa.png",
+      "original_generado": "Alumbra/1L/originales_generados/02_Creativa.png",
+      "sha256": "22287756a956917956ffcd45a2d7f6a2db05c3eb4514ef2aaab4d50e931f41a6",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Alumbra/1L/03_Creativa.png",
+      "original_generado": "Alumbra/1L/originales_generados/03_Creativa.png",
+      "sha256": "f9798d7c8ddaaff0327df296e218308a7b2dfda9879b83bf6de61fdef6d43777",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aluminiox/1L/01_Ecommerce.png",
+      "original_generado": "Aluminiox/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "180d58942325712400d28de44575489a2532642a75ca2c5a9ea8da297da97a16",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aluminiox/1L/02_Creativa.png",
+      "original_generado": "Aluminiox/1L/originales_generados/02_Creativa.png",
+      "sha256": "4cf3ca0604b6385a14c32d33b74451a6a99e7aa96cb65b8f3eef1a4e4b4b87dd",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aluminiox/1L/03_Creativa.png",
+      "original_generado": "Aluminiox/1L/originales_generados/03_Creativa.png",
+      "sha256": "4b9d58e38cf1a3950917ec38a3f014aef23d6caa6addabe00bfc00b3c9a56b19",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aromatizante/1L/Vainilla/01_Ecommerce.png",
+      "original_generado": "Aromatizante/1L/Vainilla/originales_generados/01_Ecommerce.png",
+      "sha256": "207a10b9965c8d955569b307c1e5dfb9ed8182ee0f28c7efe34caec354f99847",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aromatizante/1L/Vainilla/02_Creativa.png",
+      "original_generado": "Aromatizante/1L/Vainilla/originales_generados/02_Creativa.png",
+      "sha256": "10a83aeb39d3c3db74d32b6bf98ee4976ccd4691ea292bd0a8050e6612855723",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Aromatizante/1L/Vainilla/03_Creativa.png",
+      "original_generado": "Aromatizante/1L/Vainilla/originales_generados/03_Creativa.png",
+      "sha256": "00fb00729f9539b1b2ebc294b69b632ebb0ef1bb6aec1b0ddb7374e9ed95eaf3",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo-S Spray/495ml/01_Ecommerce.png",
+      "original_generado": "Autobrillo-S Spray/495ml/originales_generados/01_Ecommerce.png",
+      "sha256": "55df428a01889a7443cc88c231c4d0fbf4e91562aa50339e0aee1b96e6425809",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo-S Spray/495ml/02_Creativa.png",
+      "original_generado": "Autobrillo-S Spray/495ml/originales_generados/02_Creativa.png",
+      "sha256": "d3337598fd7f87064c94bb38530e32f90506d0e0f9346c4f485ae70eb9264d0b",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo-S Spray/495ml/03_Creativa.png",
+      "original_generado": "Autobrillo-S Spray/495ml/originales_generados/03_Creativa.png",
+      "sha256": "c3c7a30073d283ef938ea2112a799a2d04f96ec27fe0efa7d29352451ba62a5e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo A/1L/01_Ecommerce.png",
+      "original_generado": "Autobrillo A/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "21500f8b2798a64373cab1f583e727fadc6b9fc046a2be8ca4beffcff64ba237",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo A/1L/02_Creativa.png",
+      "original_generado": "Autobrillo A/1L/originales_generados/02_Creativa.png",
+      "sha256": "006e40de07c53feb574ae055f0481a40454d5c9586194c02e4405c121b287f41",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo A/1L/03_Creativa.png",
+      "original_generado": "Autobrillo A/1L/originales_generados/03_Creativa.png",
+      "sha256": "823853c17f6e2023737b355fefbb6c880892a27cd1adc8508405af90f4045933",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillantador/500ml/01_Ecommerce.png",
+      "original_generado": "Brillantador/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "26b2bf910d49786b5da839e8eab3e3f62c7fae216d1c9df825a0db8235f25f03",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillantador/500ml/02_Creativa.png",
+      "original_generado": "Brillantador/500ml/originales_generados/02_Creativa.png",
+      "sha256": "1014876c3594f4030424133ddd73b04c1c4a6e18744c269d9c3885679adcf41f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillantador/500ml/03_Creativa.png",
+      "original_generado": "Brillantador/500ml/originales_generados/03_Creativa.png",
+      "sha256": "c7cef919f3c659c70c4c42c999a927d5cb519138b082bd3814cc8d0eb7234171",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo Atomizable/600ml/01_Ecommerce.png",
+      "original_generado": "Autobrillo Atomizable/600ml/originales_generados/01_Ecommerce.png",
+      "sha256": "85123b8a57aaf6477d424004a03717cbad500c4a4f1d96d168c5f68fb9729bf2",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo Atomizable/600ml/02_Creativa.png",
+      "original_generado": "Autobrillo Atomizable/600ml/originales_generados/02_Creativa.png",
+      "sha256": "3dfb54f7056318895f3d6048b9e3e6b94c1c0ef2da7d43531daa1f1efb3cdb83",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo Atomizable/600ml/03_Creativa.png",
+      "original_generado": "Autobrillo Atomizable/600ml/originales_generados/03_Creativa.png",
+      "sha256": "877b3d03777567a8db8820c1517cee834b28370979af16c312c729d0360eec90",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/1L/01_Ecommerce.png",
+      "original_generado": "Autobrillo S Original/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "aa97d29d0a42bd96c95b99001e988ca3b3b3f989d6cab3877fca9e237d4d99b0",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/1L/02_Creativa.png",
+      "original_generado": "Autobrillo S Original/1L/originales_generados/02_Creativa.png",
+      "sha256": "a62648f8c50e9a8d85af443c4b355d30ddbb7589aac08cdb11abf7aab5c180c8",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/1L/03_Creativa.png",
+      "original_generado": "Autobrillo S Original/1L/originales_generados/03_Creativa.png",
+      "sha256": "64f3ef70f2a5736f60f3eb5f96a0451f7eab4936a8db9e101dab93f66506eb4f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/500ml/01_Ecommerce.png",
+      "original_generado": "Autobrillo S Original/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "c4cf017817973406d0bc2254331f5bcecdde318260e77ed2686e659d262386fc",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/500ml/02_Creativa.png",
+      "original_generado": "Autobrillo S Original/500ml/originales_generados/02_Creativa.png",
+      "sha256": "477d6786cec0c4ae1f07141db193be1f8d8fd9438e9c4f4a71d2ce30822560e7",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Autobrillo S Original/500ml/03_Creativa.png",
+      "original_generado": "Autobrillo S Original/500ml/originales_generados/03_Creativa.png",
+      "sha256": "fb0dd0b2c887f677bc374ac41f4d63075b0ca44dd8a9b61d46efabc4ba175a3f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Blister Crema y Repelente/2 x 130ml/01_Ecommerce.png",
+      "original_generado": "Blister Crema y Repelente/2 x 130ml/originales_generados/01_Ecommerce.png",
+      "sha256": "3100840c6e319b9e8cd7e29f94fd3baa6e479ef42da7a15e0d3982c2fb0ec89a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Blister Crema y Repelente/2 x 130ml/02_Creativa.png",
+      "original_generado": "Blister Crema y Repelente/2 x 130ml/originales_generados/02_Creativa.png",
+      "sha256": "4524929507f8e798d97f6060bf86588053c3c5c9df05bffa0147beb69def45c8",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Blister Crema y Repelente/2 x 130ml/03_Creativa.png",
+      "original_generado": "Blister Crema y Repelente/2 x 130ml/originales_generados/03_Creativa.png",
+      "sha256": "348a4fd5e9eb8c60e7b4cee88de4d400116a84ef4766292599888ab7f99c7b5c",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillo Platinum/1L/01_Ecommerce.png",
+      "original_generado": "Brillo Platinum/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "6510b9b785fea5ad70d9bf977cd7cb61f6bcc9d48eefec4bc38791fe1f516217",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillo Platinum/1L/02_Creativa.png",
+      "original_generado": "Brillo Platinum/1L/originales_generados/02_Creativa.png",
+      "sha256": "94430082dcca34128e9120062739ec3d6ff63a54a1b9cf4b671edd0fd6b2269a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Brillo Platinum/1L/03_Creativa.png",
+      "original_generado": "Brillo Platinum/1L/originales_generados/03_Creativa.png",
+      "sha256": "9568d5e34445a06dce5fbfa2592d40f7cd550782b988dacc520d601d7c32b4e1",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/1L/01_Ecommerce.png",
+      "original_generado": "Car Wash/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "48567a49a036bc0293c19cc2061db614c9739a5f11b5438e5bd9edbd39e72bc2",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/1L/02_Creativa.png",
+      "original_generado": "Car Wash/1L/originales_generados/02_Creativa.png",
+      "sha256": "9b5507917a9c896831d63b727de1255577b0388ecee168177dec96f2a8848c6e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/1L/03_Creativa.png",
+      "original_generado": "Car Wash/1L/originales_generados/03_Creativa.png",
+      "sha256": "81abe8f2670ff55997e7107cdef04d627201ed2c90cbeff023d8a0facf1be7ff",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/3.8L/01_Ecommerce.png",
+      "original_generado": "Car Wash/3.8L/originales_generados/01_Ecommerce.png",
+      "sha256": "b43c7ea039eb1d5cd1780d9a92b692a35436c8597a5357810d7575be52c45c0d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/3.8L/02_Creativa.png",
+      "original_generado": "Car Wash/3.8L/originales_generados/02_Creativa.png",
+      "sha256": "fd87015eaf485328405f27af660af30f4a6ad74551628bf5ae19e18da8567be7",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Car Wash/3.8L/03_Creativa.png",
+      "original_generado": "Car Wash/3.8L/originales_generados/03_Creativa.png",
+      "sha256": "c9cc780e27834d3da01a4c870e1b94a89f8d0bf0b21f540b85cff9fc88ba7e0d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Bubble Wash/1.89L/01_Ecommerce.png",
+      "original_generado": "Bubble Wash/1.89L/originales_generados/01_Ecommerce.png",
+      "sha256": "6675b31780427d9214f5c928c58263e756583a30425719481f28f853abc64d61",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Bubble Wash/1.89L/02_Creativa.png",
+      "original_generado": "Bubble Wash/1.89L/originales_generados/02_Creativa.png",
+      "sha256": "cc59a6913d94aed121cbf3be7b3229ec0d4637c25e9622d9f179359824fddb05",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Bubble Wash/1.89L/03_Creativa.png",
+      "original_generado": "Bubble Wash/1.89L/originales_generados/03_Creativa.png",
+      "sha256": "ea365dfef9d08d9a3c6da8d6535c50272b4cf11ffdf3d0532141db4a92743c94",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera en Pasta/355ml/01_Ecommerce.png",
+      "original_generado": "Cera en Pasta/355ml/originales_generados/01_Ecommerce.png",
+      "sha256": "63319037ca09a445d9c0a962986c4ad2c278631a2ad5e5563ab427121a7675bb",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera en Pasta/355ml/02_Creativa.png",
+      "original_generado": "Cera en Pasta/355ml/originales_generados/02_Creativa.png",
+      "sha256": "4dcd207572912d995e1beb5ec4c56d530f0a8f8cb2ad345860f6ca2079d5c08d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera en Pasta/355ml/03_Creativa.png",
+      "original_generado": "Cera en Pasta/355ml/originales_generados/03_Creativa.png",
+      "sha256": "8ff6e9e2f93a70223ad6b9468085e5264f66347318d728ce4e42134592589502",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Líquida/500ml/01_Ecommerce.png",
+      "original_generado": "Cera Líquida/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "7746168508adfe56c0988eba51f938a8b7435cc92d2eb3586dab2bcd6a104405",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Líquida/500ml/02_Creativa.png",
+      "original_generado": "Cera Líquida/500ml/originales_generados/02_Creativa.png",
+      "sha256": "3d9e6ce6816d0e869cd00076b819d0305cdc581bcf12fddca5cfb5a7a0136e3e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Líquida/500ml/03_Creativa.png",
+      "original_generado": "Cera Líquida/500ml/originales_generados/03_Creativa.png",
+      "sha256": "c19311a3aa2fcaa30c54081135ee34986943980a6cf36ab6311501bde9418ea8",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Rápida/600ml/01_Ecommerce.png",
+      "original_generado": "Cera Rápida/600ml/originales_generados/01_Ecommerce.png",
+      "sha256": "009b0f538c45225c76e56bd6e040fa56b75824b16f5d1201c9c99a457c7ec284",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Rápida/600ml/02_Creativa.png",
+      "original_generado": "Cera Rápida/600ml/originales_generados/02_Creativa.png",
+      "sha256": "a28861d5c07166b68689baddb61e048dcfdef1f1e9bcbd1b5a5191f496d394cf",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cera Rápida/600ml/03_Creativa.png",
+      "original_generado": "Cera Rápida/600ml/originales_generados/03_Creativa.png",
+      "sha256": "8e4f95b2326a1cdddd2b5642d674ae12dcddd7cc6fc3c82debd2227df7a3c3cc",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Berry/01_Ecommerce.png",
+      "original_generado": "Cool Grey/1 pieza/Berry/originales_generados/01_Ecommerce.png",
+      "sha256": "aef82adc7027ede0dc9d60f5a5640621b7d57f8b6c8664cbe01ef87fd0aa4ca3",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Berry/02_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/Berry/originales_generados/02_Creativa.png",
+      "sha256": "fbe81e8c9ac4f2a34b3338a20b9b5f26e1cbf593cdc26f89ed946c44d73fbd94",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Berry/03_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/Berry/originales_generados/03_Creativa.png",
+      "sha256": "b81afd640b94d6a34d097a52e43b773a33470af7d18bfc72ebbba97080601528",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/20ml/Banana/01_Ecommerce.png",
+      "original_generado": "Cool Grey/20ml/Banana/originales_generados/01_Ecommerce.png",
+      "sha256": "13860e698dc7f977a3e15cd80aa03ad415562d50e53c7a0f85735a80913e029d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/20ml/Banana/02_Creativa.png",
+      "original_generado": "Cool Grey/20ml/Banana/originales_generados/02_Creativa.png",
+      "sha256": "23340751e72b1a836a9c44241faec62b3dce43dd4a4c95cdea2ffa5e3574756b",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/20ml/Banana/03_Creativa.png",
+      "original_generado": "Cool Grey/20ml/Banana/originales_generados/03_Creativa.png",
+      "sha256": "6e86e844e0f99cdb49e33ca560addc2f9aae0b7a9f84ced5ffe8143118675a93",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/New Car/01_Ecommerce.png",
+      "original_generado": "Cool Grey/1 pieza/New Car/originales_generados/01_Ecommerce.png",
+      "sha256": "c48e2d3e500c99344a4c4abc7715ea76c43c99ce4a33b3b85b864d0692c6c3de",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/New Car/02_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/New Car/originales_generados/02_Creativa.png",
+      "sha256": "78df3735f10b669d3999df1b9fe8529af3b995817e601ef4fcf2568d68acf842",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/New Car/03_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/New Car/originales_generados/03_Creativa.png",
+      "sha256": "94c9b629af64089713253b63b767c953ce4999957d74aaed48c09c6333200900",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Cherry/01_Ecommerce.png",
+      "original_generado": "Cool Grey/1 pieza/Cherry/originales_generados/01_Ecommerce.png",
+      "sha256": "4c6f31f5de4cf3e0a9e0bc688424e9c2dbaad15728ac540f9517e43e97c3bf3d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Cherry/02_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/Cherry/originales_generados/02_Creativa.png",
+      "sha256": "12603e01609ab4a3a0ef8b481fce118d50e9b685e6059311b709dafe98778f8f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Cherry/03_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/Cherry/originales_generados/03_Creativa.png",
+      "sha256": "b39bbf01f66e134c9a2d9ea05472795326a436099bf61d94b2934e16a327460a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Uva Silvestre/01_Ecommerce.png",
+      "original_generado": "Cool Grey/1 pieza/Uva Silvestre/originales_generados/01_Ecommerce.png",
+      "sha256": "1614cca81ccf680a3b2284cdf892695657c84cf1336e7452509d20744c1cbc56",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Uva Silvestre/02_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/Uva Silvestre/originales_generados/02_Creativa.png",
+      "sha256": "f558aab4b89b0e18af9e5587b4648a9e3c9277c16b4fc3d4a1f484f5e201c698",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Cool Grey/1 pieza/Uva Silvestre/03_Creativa.png",
+      "original_generado": "Cool Grey/1 pieza/Uva Silvestre/originales_generados/03_Creativa.png",
+      "sha256": "f3ec5828fc588ecb738df35472b14576ef9d50c0cb2089ec03140d4c2f1c2564",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Crema Quita Gotas/300ml/01_Ecommerce.png",
+      "original_generado": "Crema Quita Gotas/300ml/originales_generados/01_Ecommerce.png",
+      "sha256": "7f15fc4e4a4ae978658c20ad271054735dd471d6b81667878c711bc6bfe51060",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Crema Quita Gotas/300ml/02_Creativa.png",
+      "original_generado": "Crema Quita Gotas/300ml/originales_generados/02_Creativa.png",
+      "sha256": "29a9cd9689c6f9b2066eb1040b70a6e8972ae09fbb2106f8bdc405db12b85f7e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Crema Quita Gotas/300ml/03_Creativa.png",
+      "original_generado": "Crema Quita Gotas/300ml/originales_generados/03_Creativa.png",
+      "sha256": "0447623bbbfeae2bd0d6e280ab1a1509df4858df5d355a01aaacb3df76ae4c4c",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Desgra-Mot/1L/01_Ecommerce.png",
+      "original_generado": "Desgra-Mot/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "4bf20d8b302a06260ee91d38b1741220fb2c83820bc374c3038e017560f0affb",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Desgra-Mot/1L/02_Creativa.png",
+      "original_generado": "Desgra-Mot/1L/originales_generados/02_Creativa.png",
+      "sha256": "d53989fca7d45397425a50a16a77723bd4c03da0e5d8078b9b316c598d5a8bce",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Desgra-Mot/1L/03_Creativa.png",
+      "original_generado": "Desgra-Mot/1L/originales_generados/03_Creativa.png",
+      "sha256": "15a994e5b75b6a7a5217e8592c9e5476a4439a7f07416c9cfe7d5af6da6f0494",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Blancas/3 piezas fotografiadas/01_Ecommerce.png",
+      "original_generado": "Esponjas Blancas/3 piezas fotografiadas/originales_generados/01_Ecommerce.png",
+      "sha256": "87cd38b4d412d45bc000a02a7fbf43a153f2d561fb46f536e303db8fb5d2069d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Blancas/3 piezas fotografiadas/02_Creativa.png",
+      "original_generado": "Esponjas Blancas/3 piezas fotografiadas/originales_generados/02_Creativa.png",
+      "sha256": "887b49747cb73a62440acb37b30d6b8175f01a0490820558981c25092c4ddd90",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Blancas/3 piezas fotografiadas/03_Creativa.png",
+      "original_generado": "Esponjas Blancas/3 piezas fotografiadas/originales_generados/03_Creativa.png",
+      "sha256": "25f9816decdda3fcf00c253ebb7d1976cbcf6062c41bd0b137987e74eb40d1bf",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Rojas/2 piezas fotografiadas/01_Ecommerce.png",
+      "original_generado": "Esponjas Rojas/2 piezas fotografiadas/originales_generados/01_Ecommerce.png",
+      "sha256": "252b1643aa9ec0a51bb2a5b6fcec937057ee976ad5d2f68b86d4eabacaf36d85",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Rojas/2 piezas fotografiadas/02_Creativa.png",
+      "original_generado": "Esponjas Rojas/2 piezas fotografiadas/originales_generados/02_Creativa.png",
+      "sha256": "29ba30056cc2273f28eed1c31990b550b633e820c13b30e2b6b41fca3aaaacda",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Esponjas Rojas/2 piezas fotografiadas/03_Creativa.png",
+      "original_generado": "Esponjas Rojas/2 piezas fotografiadas/originales_generados/03_Creativa.png",
+      "sha256": "d5feda67f2039600d38660142f2dca3bb0dec579c8fc0f2202eef90741cbcd4a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fin Gras/1L/01_Ecommerce.png",
+      "original_generado": "Fin Gras/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "8afdfea4cba6b3c8432fcecfa587c5eba74e43c7cfe2e8df97b9bd60c7627404",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fin Gras/1L/02_Creativa.png",
+      "original_generado": "Fin Gras/1L/originales_generados/02_Creativa.png",
+      "sha256": "0009153aa3b0446fd1a4975d4a87f9a0e35d98a95dc2e7146dc5ea868de99c8a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fin Gras/1L/03_Creativa.png",
+      "original_generado": "Fin Gras/1L/originales_generados/03_Creativa.png",
+      "sha256": "96fd6c0501e98934171d9c1a1f6011f3bb08712054104f78282c1fe213d47d93",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fino Touch Carnauba/500ml/01_Ecommerce.png",
+      "original_generado": "Fino Touch Carnauba/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "b400699b72bef404f2022e390f9aa1150efe289f8cbe1025d6ff34659b9d5624",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fino Touch Carnauba/500ml/02_Creativa.png",
+      "original_generado": "Fino Touch Carnauba/500ml/originales_generados/02_Creativa.png",
+      "sha256": "37c68048c37ff592b525ce5c81ce1509283777847588250200c71b450a86b936",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Fino Touch Carnauba/500ml/03_Creativa.png",
+      "original_generado": "Fino Touch Carnauba/500ml/originales_generados/03_Creativa.png",
+      "sha256": "19b5a90e98e099901ee9f9e9f1bb4c07aa93ccc827b5922a21583fb68f0393d6",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gel Azul/500ml/01_Ecommerce.png",
+      "original_generado": "Gel Azul/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "5062d80bdcfa7055388d047bffde5bd3fec2de9baa69083fe7b4a48147d84084",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gel Azul/500ml/02_Creativa.png",
+      "original_generado": "Gel Azul/500ml/originales_generados/02_Creativa.png",
+      "sha256": "790a2eda6754ed9f015f5d28ebf0e75838ae0bc9f9f3c3bf6035be13516fd67f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gel Azul/500ml/03_Creativa.png",
+      "original_generado": "Gel Azul/500ml/originales_generados/03_Creativa.png",
+      "sha256": "5fc429d70123a54bf3efbf9b814564783d5d0f21071b4ac95bf2c133d39df6a5",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gras-Fin/1L/01_Ecommerce.png",
+      "original_generado": "Gras-Fin/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "3d82b058bd01b6dd7e9ad63fa85f8ddf7a5d5aa86c24060262d7a6a3bfe483f9",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gras-Fin/1L/02_Creativa.png",
+      "original_generado": "Gras-Fin/1L/originales_generados/02_Creativa.png",
+      "sha256": "80174b2df5518142d7a69fc5e9fb99e6f4dbcc77f5e4b14d745e350e2a633a6e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Gras-Fin/1L/03_Creativa.png",
+      "original_generado": "Gras-Fin/1L/originales_generados/03_Creativa.png",
+      "sha256": "14f09292bfe04e76dec7a3fc0b7b63f8130cd024f2df73d7add0e3813ab26e66",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Leather Clean/250ml/01_Ecommerce.png",
+      "original_generado": "Leather Clean/250ml/originales_generados/01_Ecommerce.png",
+      "sha256": "3d1c66330abf0e96821baf87b28ee79c4c87dc28c52b4bffed29dc4375381cf7",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Leather Clean/250ml/02_Creativa.png",
+      "original_generado": "Leather Clean/250ml/originales_generados/02_Creativa.png",
+      "sha256": "43e42d320b2b60ed7f371d1a6484723ce19ff5ae3925a663a2a6fa75dd0eedac",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Leather Clean/250ml/03_Creativa.png",
+      "original_generado": "Leather Clean/250ml/originales_generados/03_Creativa.png",
+      "sha256": "05b2b4853757cefae23487485261a531c84442e84be1fc9fb818b1dda3119b7a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Lubricante para Plasti-Magic/60ml/01_Ecommerce.png",
+      "original_generado": "Lubricante para Plasti-Magic/60ml/originales_generados/01_Ecommerce.png",
+      "sha256": "566a53147e9598e2832febdddce8a4400a872fc3ede90798d86d3cecb075a23e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Lubricante para Plasti-Magic/60ml/02_Creativa.png",
+      "original_generado": "Lubricante para Plasti-Magic/60ml/originales_generados/02_Creativa.png",
+      "sha256": "dfa95a0a67b30c638b0bc5a50101d16e512ff9472565404c56377618019e9787",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Lubricante para Plasti-Magic/60ml/03_Creativa.png",
+      "original_generado": "Lubricante para Plasti-Magic/60ml/originales_generados/03_Creativa.png",
+      "sha256": "fce5617dea3ee681a7839b10e481157ea2f80543067d38ec17639d065d0c76a8",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Mano Clean/1L/01_Ecommerce.png",
+      "original_generado": "Mano Clean/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "c730f88e5b0424e676964c888ddd07245cc0360779c87557b690134280e7f87f",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Mano Clean/1L/02_Creativa.png",
+      "original_generado": "Mano Clean/1L/originales_generados/02_Creativa.png",
+      "sha256": "c9582a85d78ad7c303b8e2f87c01e2b3195d8ec8546db0aa55f9e5a4d4d3d66e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Mano Clean/1L/03_Creativa.png",
+      "original_generado": "Mano Clean/1L/originales_generados/03_Creativa.png",
+      "sha256": "6a59109cdd1bfd971c4bc00ac6785e04b219b346696ab54bbea314089a352205",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Microfibra/4 piezas fotografiadas/01_Ecommerce.png",
+      "original_generado": "Microfibra/4 piezas fotografiadas/originales_generados/01_Ecommerce.png",
+      "sha256": "ff5e6fd80c73082a52c735b38934b3d088d0077fa762e9e3661c8f2620876cdf",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Microfibra/4 piezas fotografiadas/02_Creativa.png",
+      "original_generado": "Microfibra/4 piezas fotografiadas/originales_generados/02_Creativa.png",
+      "sha256": "5373dcc3c076f45ba64ca9fc7ad282238aeeff855a0b78ddcb138e87c13619b3",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Microfibra/4 piezas fotografiadas/03_Creativa.png",
+      "original_generado": "Microfibra/4 piezas fotografiadas/originales_generados/03_Creativa.png",
+      "sha256": "bc55de79650b8013b1677a9df62c8cf85a9d05fdeb76698071f47d64ccdcd4b4",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Oil Restorer/55ml/01_Ecommerce.png",
+      "original_generado": "Oil Restorer/55ml/originales_generados/01_Ecommerce.png",
+      "sha256": "d54be66382ee5c1c863807736e1b811478b5137b42b02346c5b13a05572f6cfe",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Oil Restorer/55ml/02_Creativa.png",
+      "original_generado": "Oil Restorer/55ml/originales_generados/02_Creativa.png",
+      "sha256": "473044ec2a61decfe759c7243667b30d46c78b79328a54e9dbeabfad485ac2fe",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Oil Restorer/55ml/03_Creativa.png",
+      "original_generado": "Oil Restorer/55ml/originales_generados/03_Creativa.png",
+      "sha256": "ceb5525e94f586cb623c801aba9c855a6a83c003cc1a965e4f4b9532d62d2a1e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/100g/01_Ecommerce.png",
+      "original_generado": "Plasti-Magic/100g/originales_generados/01_Ecommerce.png",
+      "sha256": "e79da68504fd41467025ac90bfb68e14156df1f408fd7a09554e7683b169f3dd",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/100g/02_Creativa.png",
+      "original_generado": "Plasti-Magic/100g/originales_generados/02_Creativa.png",
+      "sha256": "c9c061c95932bae598c5abbe0a30fa87ca3c7dcc7595af9ccbe31b8443c57c2e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/100g/03_Creativa.png",
+      "original_generado": "Plasti-Magic/100g/originales_generados/03_Creativa.png",
+      "sha256": "65be1ca3a4b901943a21adab56f10d1612c398d840594ad61d84a5332da6208c",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/200g/01_Ecommerce.png",
+      "original_generado": "Plasti-Magic/200g/originales_generados/01_Ecommerce.png",
+      "sha256": "ee480e827c63f3835bca05d88c5fc705697d62eec4b110438aaa926c55278607",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/200g/02_Creativa.png",
+      "original_generado": "Plasti-Magic/200g/originales_generados/02_Creativa.png",
+      "sha256": "d75f9bf88e9cf93b7852429cdc1f146237d60cb4ad2a136c785188c05e096e16",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Plasti-Magic/200g/03_Creativa.png",
+      "original_generado": "Plasti-Magic/200g/originales_generados/03_Creativa.png",
+      "sha256": "f86c460ce200288cd601d41a3e3529d3b9ad2d5328a8fda703f8769d3f3036d0",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Blanco/300g/01_Ecommerce.png",
+      "original_generado": "Polish Blanco/300g/originales_generados/01_Ecommerce.png",
+      "sha256": "03fc538549eb328ecba77282134c5fd81f815aa38c47f6a254ba3749b004842c",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Blanco/300g/02_Creativa.png",
+      "original_generado": "Polish Blanco/300g/originales_generados/02_Creativa.png",
+      "sha256": "47a842c774a643f96ecedcbe0d88c7ca39d88282aa2ef8ab26ddb74b61c53444",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Blanco/300g/03_Creativa.png",
+      "original_generado": "Polish Blanco/300g/originales_generados/03_Creativa.png",
+      "sha256": "3694edda0b6b258a1dc4f4836a9230e8367ad19740a9e0d622c293fcd784b104",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rojo/300g/01_Ecommerce.png",
+      "original_generado": "Polish Rojo/300g/originales_generados/01_Ecommerce.png",
+      "sha256": "4f6156e991df5f94e0425516f9d82c9be985c72c140e35b475df4d0058aa420a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rojo/300g/02_Creativa.png",
+      "original_generado": "Polish Rojo/300g/originales_generados/02_Creativa.png",
+      "sha256": "fdb19ef987b77b9e48aad82de5ec6eb3bf3a3a7e1c1a6382fc48a8e19555e0a0",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rojo/300g/03_Creativa.png",
+      "original_generado": "Polish Rojo/300g/originales_generados/03_Creativa.png",
+      "sha256": "14156df4ce03c799fcb7b9d61e7587285d9bef146ec69eeb400a79ff1cb26395",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rosa/300g/01_Ecommerce.png",
+      "original_generado": "Polish Rosa/300g/originales_generados/01_Ecommerce.png",
+      "sha256": "89897981b8cc1eca8b767aa0684b85ace4a3d26b7f52d9b5afe77190cb4031ac",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rosa/300g/02_Creativa.png",
+      "original_generado": "Polish Rosa/300g/originales_generados/02_Creativa.png",
+      "sha256": "5cd1ec1fcee550c60a058106aa683ee4b24bc517e88cdf9e0167d1aa689b9676",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Polish Rosa/300g/03_Creativa.png",
+      "original_generado": "Polish Rosa/300g/originales_generados/03_Creativa.png",
+      "sha256": "f741a87bfb6dabbf4a586168479a94526f198d7ec8973a6aa91244993c2d8d67",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pre-Lavado/1L/01_Ecommerce.png",
+      "original_generado": "Pre-Lavado/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "d766f43ca3058e420188fd0708be38fd134f0f8d576c61782e7bfdce167670f4",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pre-Lavado/1L/02_Creativa.png",
+      "original_generado": "Pre-Lavado/1L/originales_generados/02_Creativa.png",
+      "sha256": "943a846385234327122a53cd4cca333a92b8826b29884d95acfe9a8a92029df5",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pre-Lavado/1L/03_Creativa.png",
+      "original_generado": "Pre-Lavado/1L/originales_generados/03_Creativa.png",
+      "sha256": "c98c2b458d170a388a24615798fa2974f954a1dbc982ce125ea21867c0ec1738",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento 3 en 1/500ml/01_Ecommerce.png",
+      "original_generado": "Pulimento 3 en 1/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "415c263835f790efb53dc6de9e12637db1d67061d59df79c92526ddf1eb79117",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento 3 en 1/500ml/02_Creativa.png",
+      "original_generado": "Pulimento 3 en 1/500ml/originales_generados/02_Creativa.png",
+      "sha256": "0f02e6118bf4fe2d7760704cf7958a311a0e3d31901faf9e194e1cc2feb81c5e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento 3 en 1/500ml/03_Creativa.png",
+      "original_generado": "Pulimento 3 en 1/500ml/originales_generados/03_Creativa.png",
+      "sha256": "c4f88aae3b04b01570d0987e69ff117aeaf39ef154afed8c7aa18a1ccc1363cc",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Azul/500ml/01_Ecommerce.png",
+      "original_generado": "Pulimento Azul/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "b1ec24a9219ba3c714bc006226eb51c1a1f2107eb654f0d25bf1c26f422c3ff5",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Azul/500ml/02_Creativa.png",
+      "original_generado": "Pulimento Azul/500ml/originales_generados/02_Creativa.png",
+      "sha256": "f8daf8e3c85e7d6e38eb65670345d49731218bae3bb469d492bb96e218614268",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Azul/500ml/03_Creativa.png",
+      "original_generado": "Pulimento Azul/500ml/originales_generados/03_Creativa.png",
+      "sha256": "49788edd2cc345085e17c6e7b10b0cb10b0c2a6ca4a7365564254a280b3dab0e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Blanco/500ml/01_Ecommerce.png",
+      "original_generado": "Pulimento Blanco/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "f73d7f7ae1ba33bf1282f5eddcd2a9500188247c8596b61a7afa872f4ef8b8f2",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Blanco/500ml/02_Creativa.png",
+      "original_generado": "Pulimento Blanco/500ml/originales_generados/02_Creativa.png",
+      "sha256": "62487eae3593c72b03b48279fa3e66b8605f77c2ff054ba5738288c3af46e646",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Blanco/500ml/03_Creativa.png",
+      "original_generado": "Pulimento Blanco/500ml/originales_generados/03_Creativa.png",
+      "sha256": "46262adc769aae750f1b6b69bac144e7d07ee8e944c8e33eeda96eacd380edae",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Rosa/500ml/01_Ecommerce.png",
+      "original_generado": "Pulimento Rosa/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "d2a88bd6b2fc58239e561309638a027ec2491e612a4174ac744db0da98d7a631",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Rosa/500ml/02_Creativa.png",
+      "original_generado": "Pulimento Rosa/500ml/originales_generados/02_Creativa.png",
+      "sha256": "fdf1c2aee3ceb6620743eaabb5b7c90cdb4a5a9478ac8900e02486e12d5bdd1b",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Pulimento Rosa/500ml/03_Creativa.png",
+      "original_generado": "Pulimento Rosa/500ml/originales_generados/03_Creativa.png",
+      "sha256": "aec75f828bcbd9e4e545ea85a04e697a2e7f84344cd5e44bbf82ccd64cce5464",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "PUM Easy Cleaning/600ml/01_Ecommerce.png",
+      "original_generado": "PUM Easy Cleaning/600ml/originales_generados/01_Ecommerce.png",
+      "sha256": "f8b5435525e3ac025828a67154e9712f5b144d2f0ba7e6562fdb2b8489013102",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "PUM Easy Cleaning/600ml/02_Creativa.png",
+      "original_generado": "PUM Easy Cleaning/600ml/originales_generados/02_Creativa.png",
+      "sha256": "a21f5cc7423ec0dcc8e1bab6216a49f810a02abd5cace07010bb81c941ec8e04",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "PUM Easy Cleaning/600ml/03_Creativa.png",
+      "original_generado": "PUM Easy Cleaning/600ml/originales_generados/03_Creativa.png",
+      "sha256": "d29c13b4fb7ec66ca5e22d11c9424e3ce934316cb32beb8258c790cfedd542cf",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita-Gotas/500ml/01_Ecommerce.png",
+      "original_generado": "Quita-Gotas/500ml/originales_generados/01_Ecommerce.png",
+      "sha256": "bd41e346774b95b77cf7d6204c5f3d05fddb9b4f1b2d85d94c63c564deffee2e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita-Gotas/500ml/02_Creativa.png",
+      "original_generado": "Quita-Gotas/500ml/originales_generados/02_Creativa.png",
+      "sha256": "68c80996192dcfbe1c49fa49df62ea93dea573d4de63d063632d0a9fc647c90e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita-Gotas/500ml/03_Creativa.png",
+      "original_generado": "Quita-Gotas/500ml/originales_generados/03_Creativa.png",
+      "sha256": "725905ef9f842e6b16147db6bd4cd2ebdacc24325dcde76ad00dfaace7a30981",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Goma/130ml/01_Ecommerce.png",
+      "original_generado": "Quita Goma/130ml/originales_generados/01_Ecommerce.png",
+      "sha256": "d6f9a5d59c0b4d7480a9b0f44e8e37b7685f14af109e9c3b8543d772ac7265c8",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Goma/130ml/02_Creativa.png",
+      "original_generado": "Quita Goma/130ml/originales_generados/02_Creativa.png",
+      "sha256": "ed6dd039db80c122ed0f51b9580f864f1aa5bea997c5e61d9823cac20ce4cf00",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Goma/130ml/03_Creativa.png",
+      "original_generado": "Quita Goma/130ml/originales_generados/03_Creativa.png",
+      "sha256": "ee1c86f56ce0edf2e061c092f0167e73282bb11e746e3d6da6bfa8fba5119400",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Gotas/130ml/01_Ecommerce.png",
+      "original_generado": "Quita Gotas/130ml/originales_generados/01_Ecommerce.png",
+      "sha256": "6994a35cd61ae7bbb993552311148af05136e6185438ff9a5cba4a958cca36e6",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Gotas/130ml/02_Creativa.png",
+      "original_generado": "Quita Gotas/130ml/originales_generados/02_Creativa.png",
+      "sha256": "af908a108ec178fc9ace561c400c06e324fba8ce7a336d994de9e5f7ec7a2051",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Quita Gotas/130ml/03_Creativa.png",
+      "original_generado": "Quita Gotas/130ml/originales_generados/03_Creativa.png",
+      "sha256": "9d4c58b0db714cb47ad01b83f0284aa54add986e761ce4baa43c14d470d13659",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Repelente de Agua/130ml/01_Ecommerce.png",
+      "original_generado": "Repelente de Agua/130ml/originales_generados/01_Ecommerce.png",
+      "sha256": "047bae40537064b82ce26e61c3c8cbf6a71cf8bf31d1b66ff13130a39011ae4a",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Repelente de Agua/130ml/02_Creativa.png",
+      "original_generado": "Repelente de Agua/130ml/originales_generados/02_Creativa.png",
+      "sha256": "5b16ce76daf202330425992dcacb455273d27c0ed0c2a4e2edf95f2d7e55455b",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Repelente de Agua/130ml/03_Creativa.png",
+      "original_generado": "Repelente de Agua/130ml/originales_generados/03_Creativa.png",
+      "sha256": "895044dbaec642e3b7d62c91b8dc2d5feb54cd4a07bbf5ea797c368aa1c50a5d",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/130ml/01_Ecommerce.png",
+      "original_generado": "Restaurador de Faros/130ml/originales_generados/01_Ecommerce.png",
+      "sha256": "e596f711c08d380bbdf8cd336e9ca0013cea90b5fcca519d6bdddd0a03fde68e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/130ml/02_Creativa.png",
+      "original_generado": "Restaurador de Faros/130ml/originales_generados/02_Creativa.png",
+      "sha256": "7a8732d25e507f365485af477f232b2a8029c79185c73cc227fa6faec8fc2f78",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/130ml/03_Creativa.png",
+      "original_generado": "Restaurador de Faros/130ml/originales_generados/03_Creativa.png",
+      "sha256": "314fe17f339997eb7a5a8798d006ff9b30d1ba2669ce6d716859c9f7c9c1baa6",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/250ml/01_Ecommerce.png",
+      "original_generado": "Restaurador de Faros/250ml/originales_generados/01_Ecommerce.png",
+      "sha256": "4c2e0c93abd559d51653eebfff12b5ae8e1dc0840eff6b84ac504016cdf8d700",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/250ml/02_Creativa.png",
+      "original_generado": "Restaurador de Faros/250ml/originales_generados/02_Creativa.png",
+      "sha256": "c11e0716d2edceb6754701ea625cd3a630fd7e23110b2b838a442119b0fd57ef",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Restaurador de Faros/250ml/03_Creativa.png",
+      "original_generado": "Restaurador de Faros/250ml/originales_generados/03_Creativa.png",
+      "sha256": "2586652c8391150c39220d647d23f1dca2b35602c43497739b49c49d1237b93e",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Rines Motores y Llantas/600ml/01_Ecommerce.png",
+      "original_generado": "Rines Motores y Llantas/600ml/originales_generados/01_Ecommerce.png",
+      "sha256": "e7309e52a8a61815f89b400310c531af03dc14d8ffe141aa71fdf0f7b33b804c",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Rines Motores y Llantas/600ml/02_Creativa.png",
+      "original_generado": "Rines Motores y Llantas/600ml/originales_generados/02_Creativa.png",
+      "sha256": "7d95b6dc0864fd8f1259e28ad2f7fc2d493e0595287bd78385a911a7a4ee58f0",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Rines Motores y Llantas/600ml/03_Creativa.png",
+      "original_generado": "Rines Motores y Llantas/600ml/originales_generados/03_Creativa.png",
+      "sha256": "23efbe0721923a10250a631f2bd8ceb76ef189cac27bfb3a4c5d0182ab3ca874",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Shampoo con Cera/1L/01_Ecommerce.png",
+      "original_generado": "Shampoo con Cera/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "489e27c2ad89a116312282d515f80c5c52a0087a3605a178a22cf6da0b0c6318",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Shampoo con Cera/1L/02_Creativa.png",
+      "original_generado": "Shampoo con Cera/1L/originales_generados/02_Creativa.png",
+      "sha256": "8dfac4cde08920acef009c9b796f38c10b279d9ae3789cba46a84184fa8b0262",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Shampoo con Cera/1L/03_Creativa.png",
+      "original_generado": "Shampoo con Cera/1L/originales_generados/03_Creativa.png",
+      "sha256": "d279c3cb7e27d299808aed3914142c7d1ebeef9ceb4eb64723646cb944acfe46",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Shampoo con Cera Carnauba/1L/01_Ecommerce.png",
+      "original_generado": "Shampoo con Cera Carnauba/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "420f4be7ce91dd0a2e2af9d2c3501f84e8becfbb38568bd385e861569a9f9d75",
+      "ancho": 914,
+      "alto": 1720
+    },
+    {
+      "archivo": "Shampoo con Cera Carnauba/1L/02_Creativa.png",
+      "original_generado": "Shampoo con Cera Carnauba/1L/originales_generados/02_Creativa.png",
+      "sha256": "8aa7c7337edad6cd49272ab00c9b9df7e475b1adf096a77ca5789ea77cf2dcc6",
+      "ancho": 914,
+      "alto": 1720
+    },
+    {
+      "archivo": "Shampoo con Cera Carnauba/1L/03_Creativa.png",
+      "original_generado": "Shampoo con Cera Carnauba/1L/originales_generados/03_Creativa.png",
+      "sha256": "036527406b18f600448c6cfbf4d5eba6dc5cc46dd3dcbafe5a080fe4187bb94c",
+      "ancho": 914,
+      "alto": 1720
+    },
+    {
+      "archivo": "Silicrem/1kg/01_Ecommerce.png",
+      "original_generado": "Silicrem/1kg/originales_generados/01_Ecommerce.png",
+      "sha256": "06d6d8cb57f98c2fa94e3bb62b2de642c24cab38bb707fb9c7328931fd79defa",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Silicrem/1kg/02_Creativa.png",
+      "original_generado": "Silicrem/1kg/originales_generados/02_Creativa.png",
+      "sha256": "cd43c2ce39690d3dc0fb033db91ca6adf4063c5b42ddd2e43013432714cd1360",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Silicrem/1kg/03_Creativa.png",
+      "original_generado": "Silicrem/1kg/originales_generados/03_Creativa.png",
+      "sha256": "2ae19edcc2e050b22e087ca72981f2301c611af6c9fea4459d4238b6669211b0",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Silicrem/300g/01_Ecommerce.png",
+      "original_generado": "Silicrem/300g/originales_generados/01_Ecommerce.png",
+      "sha256": "78a21ab37b253831f09fbc2f97726764c2c74f0f9b3e82bc183013485e373a31",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Silicrem/300g/02_Creativa.png",
+      "original_generado": "Silicrem/300g/originales_generados/02_Creativa.png",
+      "sha256": "693cb8e5d7ff3e161070953073062857883f24747fa0c6edccb4166c64a833d4",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Silicrem/300g/03_Creativa.png",
+      "original_generado": "Silicrem/300g/originales_generados/03_Creativa.png",
+      "sha256": "28100813a4c56e472264c895f811fbb2e6a5a9902da9d1693cecd35c299592f7",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Super Corte/250ml/01_Ecommerce.png",
+      "original_generado": "Super Corte/250ml/originales_generados/01_Ecommerce.png",
+      "sha256": "a64d968964f59baa0bdafb4ad6fff73125905938520d6fd572c8de58a6fe0a2c",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Super Corte/250ml/02_Creativa.png",
+      "original_generado": "Super Corte/250ml/originales_generados/02_Creativa.png",
+      "sha256": "a6226a5d42d9148282b9254f7eb34f6bffb93809871e7c62c7e95dba22b40bea",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Super Corte/250ml/03_Creativa.png",
+      "original_generado": "Super Corte/250ml/originales_generados/03_Creativa.png",
+      "sha256": "af98b1f8e94737ba2779e475569585c272dddfad2f0e877fb4720c340ef249bc",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Wiper Cleaner/1L/01_Ecommerce.png",
+      "original_generado": "Wiper Cleaner/1L/originales_generados/01_Ecommerce.png",
+      "sha256": "4db7ae011b86ada46d338f045410aa7ef76b5468c56a281873fcf70194be74a4",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Wiper Cleaner/1L/02_Creativa.png",
+      "original_generado": "Wiper Cleaner/1L/originales_generados/02_Creativa.png",
+      "sha256": "670df01c408f8d2fd02b6007d97c0ad3f85f92e4319f58e6d88256f51d4376d4",
+      "ancho": 1254,
+      "alto": 1254
+    },
+    {
+      "archivo": "Wiper Cleaner/1L/03_Creativa.png",
+      "original_generado": "Wiper Cleaner/1L/originales_generados/03_Creativa.png",
+      "sha256": "f336de4de2db77560ac1bf949597bd5016404eb1162ad66a392f265653378db8",
+      "ancho": 1254,
+      "alto": 1254
+    }
+  ]
+}

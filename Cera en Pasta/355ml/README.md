@@ -8,6 +8,6 @@ Referencia: margrey/Cera en Pasta.png. Inspeccionada visualmente antes de genera
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Blanco exacto pendiente de verificación.
+Producto completo, nombre y presentación legibles, gráficos impresos conservados. Revisión de etiqueta pendiente por variaciones finas del diseño y tipografía. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,253,253. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

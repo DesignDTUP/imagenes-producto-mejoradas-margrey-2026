@@ -8,6 +8,6 @@ Referencia: margrey/Crema Quita Gotas 300ml.png. Inspeccionada visualmente antes
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Blanco exacto pendiente de verificación.
+Tarro y tapa completos, nombre y 300 mL conservados. Revisión de etiqueta pendiente por letras pequeñas y signos de marca. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 254,255,254. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

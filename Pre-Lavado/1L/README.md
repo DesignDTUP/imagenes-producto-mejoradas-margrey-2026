@@ -8,6 +8,6 @@ Referencia: margrey/prelavador.jpg. Inspeccionada visualmente antes de generar.
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.

@@ -8,6 +8,6 @@ Referencia: margrey/Rines Motores y Llantas 600ml.png. Inspeccionada visualmente
 - [Prompts realmente utilizados](prompts.md)
 - [Originales generados y revisiones](originales_generados/)
 
-Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce. Comprobación final: el fondo principal no cumple #FFFFFF exacto; primera muestra RGB 253,255,255. Corrección de fondo pendiente.
 
 No aprobado para ecommerce mientras exista una revisión pendiente.
