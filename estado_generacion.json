@@ -6,13 +6,13 @@
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
   "imagenes_generadas": 183,
-  "imagenes_publicadas_verificadas": 180,
+  "imagenes_publicadas_verificadas": 183,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [],
   "referencias_pendientes_de_clasificar": [],
   "imagenes_objetivo": 183,
   "portadas_con_tres_imagenes": 61,
-  "ultimo_commit_verificado": "2407ac8e56b769bf7d748cbe6dac7724e049af62",
+  "ultimo_commit_verificado": "244e6d9209e53b91b3a083c1adaa6dd07a328774",
   "generaciones_totales_incluidas_correcciones": 185,
   "revisiones_pendientes": [
     {
@@ -384,10 +384,8 @@
     "Super Corte 250ml.png",
     "Wiper Cleaner 1L.png"
   ],
-  "imagenes_pendientes_publicacion": [
-    "Wiper Cleaner/1L/01_Ecommerce.png",
-    "Wiper Cleaner/1L/02_Creativa.png",
-    "Wiper Cleaner/1L/03_Creativa.png"
-  ],
-  "nota_conteos": "pendientes_generacion enumera las posiciones aún vacías del objetivo de 183; las correcciones y revisiones se registran por separado."
+  "imagenes_pendientes_publicacion": [],
+  "nota_conteos": "pendientes_generacion enumera las posiciones aún vacías del objetivo de 183; las correcciones y revisiones se registran por separado.",
+  "alcance_ultimo_commit_verificado": "Commit comprobado con las 183 imágenes y 498 archivos; posteriores actualizaciones de este estado no cambian las imágenes.",
+  "publicacion_imagenes": "183 de 183 verificadas en main mediante comparación de los identificadores de contenido con los archivos locales"
 }

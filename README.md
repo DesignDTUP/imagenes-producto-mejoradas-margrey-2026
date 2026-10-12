@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-61 fotografías tratadas como portadas, con tres imágenes por referencia: 183 archivos de entrega generados. Se conservan 185 originales de la herramienta, incluyendo dos intentos de corrección. Las referencias de origen no se modificaron; se excluyeron 59 archivos auxiliares de macOS.
+61 fotografías tratadas como portadas, con tres imágenes por referencia: 183 archivos de entrega generados y verificados en la rama main del repositorio público. No quedan posiciones por generar ni imágenes por publicar. Se conservan 185 originales de la herramienta, incluyendo dos intentos de corrección. Las referencias de origen no se modificaron; se excluyeron 59 archivos auxiliares de macOS.
 
 Generación exclusivamente con Crear imagen integrada, una llamada por imagen. Cada carpeta contiene principal ecommerce, dos composiciones creativas de estilos distintos, prompts realmente utilizados, README y originales generados. Los estilos se sortearon entre opciones visuales apropiadas sin añadir afirmaciones publicitarias.
 
