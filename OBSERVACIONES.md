@@ -233,3 +233,11 @@ Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y autom
 ## Silicrem — 1kg
 
 Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación.
+
+## Silicrem — 300g
+
+Discrepancia: archivo 300ml, etiqueta CONT. NET. 300 g / 10.58 oz; se conserva la presentación fotografiada de 300 g. La referencia ya contiene frases pequeñas irregulares; no se interpretan como especificaciones verificadas. Variaciones de texto pequeño y gráficos: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.
+
+## Super Corte — 250ml
+
+Se conserva botella blanca de 250 ml con tapa abatible negra y etiqueta frontal. Pequeñas variaciones en el gráfico inferior, automóvil y tipografía fina: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.

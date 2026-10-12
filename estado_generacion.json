@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 174,
-  "imagenes_publicadas_verificadas": 168,
+  "imagenes_generadas": 180,
+  "imagenes_publicadas_verificadas": 174,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Silicrem 300ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Silicrem 300ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Silicrem 300ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Super Corte 250ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Super Corte 250ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Super Corte 250ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Wiper Cleaner 1L.png",
       "imagen": 1,
@@ -65,14 +29,12 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Silicrem 300ml.png",
-    "Super Corte 250ml.png",
     "Wiper Cleaner 1L.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 58,
-  "ultimo_commit_verificado": "5d8e971d29ded9c3aed36f8e676fc75c334205b9",
-  "generaciones_totales_incluidas_correcciones": 176,
+  "portadas_con_tres_imagenes": 60,
+  "ultimo_commit_verificado": "7fce1dc7345c60646525af42b534d41e0081ed3a",
+  "generaciones_totales_incluidas_correcciones": 182,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -305,6 +267,14 @@
     {
       "referencia": "Silicrem 1kg.png",
       "observacion": "Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación."
+    },
+    {
+      "referencia": "Silicrem 300ml.png",
+      "observacion": "Discrepancia: archivo 300ml, etiqueta CONT. NET. 300 g / 10.58 oz; se conserva la presentación fotografiada de 300 g. La referencia ya contiene frases pequeñas irregulares; no se interpretan como especificaciones verificadas. Variaciones de texto pequeño y gráficos: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
+    },
+    {
+      "referencia": "Super Corte 250ml.png",
+      "observacion": "Se conserva botella blanca de 250 ml con tapa abatible negra y etiqueta frontal. Pequeñas variaciones en el gráfico inferior, automóvil y tipografía fina: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
     }
   ]
 }
