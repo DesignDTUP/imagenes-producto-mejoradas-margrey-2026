@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 156,
-  "imagenes_publicadas_verificadas": 126,
+  "imagenes_generadas": 162,
+  "imagenes_publicadas_verificadas": 156,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Restaurador de Faros 130ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Restaurador de Faros 130ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Restaurador de Faros 130ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Restaurador de Faros 250ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Restaurador de Faros 250ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Restaurador de Faros 250ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Rines Motores y Llantas 600ml.png",
       "imagen": 1,
@@ -173,8 +137,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Restaurador de Faros 130ml.png",
-    "Restaurador de Faros 250ml.png",
     "Rines Motores y Llantas 600ml.png",
     "Shampoo Cera Platinum 1L.png",
     "Silicrem 1kg.png",
@@ -184,9 +146,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 52,
-  "ultimo_commit_verificado": "80c919a09ad746123197b1643f25b39d023a62ac",
-  "generaciones_totales_incluidas_correcciones": 158,
+  "portadas_con_tres_imagenes": 54,
+  "ultimo_commit_verificado": "c64ad030b47ec09519fce36718a470de0fbef60d",
+  "generaciones_totales_incluidas_correcciones": 164,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -395,6 +357,14 @@
     {
       "referencia": "Repelente de Agua 130ml.png",
       "observacion": "Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Restaurador de Faros 130ml.png",
+      "observacion": "Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil rojo conservados. 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Restaurador de Faros 250ml.png",
+      "observacion": "Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
     }
   ]
 }

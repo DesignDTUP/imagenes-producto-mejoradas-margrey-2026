@@ -209,3 +209,11 @@ Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la prese
 ## Repelente de Agua — 130ml
 
 Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Restaurador de Faros — 130ml
+
+Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil rojo conservados. 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Restaurador de Faros — 250ml
+
+Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
