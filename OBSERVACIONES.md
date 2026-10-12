@@ -169,3 +169,43 @@ Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad foto
 ## Polish Rosa — 300g
 
 Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Pre-Lavado — 1L
+
+Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Pulimento 3 en 1 — 500ml
+
+Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Pulimento Azul — 500ml
+
+Botella completa con contenido cian y tapa negra conservados. Etiqueta vertical y presentación 500 ml visibles. Composiciones distintas. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Pulimento Blanco — 500ml
+
+Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Pulimento Rosa — 500ml
+
+Botella completa con tapa negra y contenido rosa conservados. Presentación 500 ml y nombre visibles; estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## PUM Easy Cleaning — 600ml
+
+Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Quita-Gotas — 500ml
+
+Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Quita Goma — 130ml
+
+Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Quita Gotas — 130ml
+
+Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Repelente de Agua — 130ml
+
+Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.

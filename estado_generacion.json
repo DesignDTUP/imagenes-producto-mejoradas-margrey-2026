@@ -5,173 +5,11 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 126,
-  "imagenes_publicadas_verificadas": 120,
+  "imagenes_generadas": 156,
+  "imagenes_publicadas_verificadas": 126,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
     {
-      "referencia": "Pulimento 3 en 1 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento 3 en 1 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento 3 en 1 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Azul 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Azul 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Azul 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Blanco 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Blanco 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Blanco 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Rosa 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Rosa 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pulimento Rosa 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pum Shampoo.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pum Shampoo.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Pum Shampoo.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Qiuta Gotas 500ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Qiuta Gotas 500ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Qiuta Gotas 500ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Quita Goma 130ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Quita Goma 130ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Quita Goma 130ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Quita Gotas 130ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Quita Gotas 130ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Quita Gotas 130ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Repelente de Agua 130ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Repelente de Agua 130ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Repelente de Agua 130ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
       "referencia": "Restaurador de Faros 130ml.png",
       "imagen": 1,
       "archivo": "01_Ecommerce.png",
@@ -311,24 +149,6 @@
     },
     {
       "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "prelavador.jpg",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "prelavador.jpg",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "prelavador.jpg",
       "imagen": 3,
       "archivo": "03_Creativa.png",
       "carpeta_pendiente_inspeccion": true
@@ -353,15 +173,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Pulimento 3 en 1 500ml.png",
-    "Pulimento Azul 500ml.png",
-    "Pulimento Blanco 500ml.png",
-    "Pulimento Rosa 500ml.png",
-    "Pum Shampoo.png",
-    "Qiuta Gotas 500ml.png",
-    "Quita Goma 130ml.png",
-    "Quita Gotas 130ml.png",
-    "Repelente de Agua 130ml.png",
     "Restaurador de Faros 130ml.png",
     "Restaurador de Faros 250ml.png",
     "Rines Motores y Llantas 600ml.png",
@@ -370,13 +181,12 @@
     "Silicrem 300ml.png",
     "Super Corte 250ml.png",
     "Wiper Cleaner 1L.png",
-    "prelavador.jpg",
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 42,
-  "ultimo_commit_verificado": "62f56772081b4807ddffe6e7957e873f1f54b448",
-  "generaciones_totales_incluidas_correcciones": 128,
+  "portadas_con_tres_imagenes": 52,
+  "ultimo_commit_verificado": "80c919a09ad746123197b1643f25b39d023a62ac",
+  "generaciones_totales_incluidas_correcciones": 158,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -545,6 +355,46 @@
     {
       "referencia": "Polish Rosa 300ml.png",
       "observacion": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "prelavador.jpg",
+      "observacion": "Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Pulimento 3 en 1 500ml.png",
+      "observacion": "Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Pulimento Azul 500ml.png",
+      "observacion": "Botella completa con contenido cian y tapa negra conservados. Etiqueta vertical y presentación 500 ml visibles. Composiciones distintas. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Pulimento Blanco 500ml.png",
+      "observacion": "Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Pulimento Rosa 500ml.png",
+      "observacion": "Botella completa con tapa negra y contenido rosa conservados. Presentación 500 ml y nombre visibles; estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Pum Shampoo.png",
+      "observacion": "Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Qiuta Gotas 500ml.png",
+      "observacion": "Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Quita Goma 130ml.png",
+      "observacion": "Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Quita Gotas 130ml.png",
+      "observacion": "Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Repelente de Agua 130ml.png",
+      "observacion": "Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
     }
   ]
 }

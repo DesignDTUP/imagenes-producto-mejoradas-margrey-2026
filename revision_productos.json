@@ -549,5 +549,135 @@
     ],
     "review": "Discrepancia: archivo 300ml, etiqueta 300g / 10.58 oz. Conservada identidad fotografiada 300g. Microtextos irregulares en referencia y variaciones en resultados: revisión de etiqueta pendiente. Producto completo y composiciones distintas. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
     "inspected": true
+  },
+  {
+    "reference": "prelavador.jpg",
+    "product": "Pre-Lavado",
+    "presentation": "1L",
+    "folder": "Pre-Lavado/1L",
+    "styles": [
+      "/ecommerce",
+      "/monochrome",
+      "/glassdisplay"
+    ],
+    "review": "Identidad visible PRE-LAVADO SHAMPOO ALCALINO, 1 L. Botella completa con líquido morado oscuro y espuma interior conservados. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y microtextos; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Pulimento 3 en 1 500ml.png",
+    "product": "Pulimento 3 en 1",
+    "presentation": "500ml",
+    "folder": "Pulimento 3 en 1/500ml",
+    "styles": [
+      "/ecommerce",
+      "/blackluxury",
+      "/productpedestal"
+    ],
+    "review": "Botella completa con tapa negra, etiqueta negra amarilla y automóvil negro impreso. Presentación 500 mL conservada. Estilos distintos. Revisión de etiqueta pendiente por detalles del gráfico y letras pequeñas; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Pulimento Azul 500ml.png",
+    "product": "Pulimento Azul",
+    "presentation": "500ml",
+    "folder": "Pulimento Azul/500ml",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/gradient"
+    ],
+    "review": "Botella completa con contenido cian y tapa negra conservados. Etiqueta vertical y presentación 500 ml visibles. Composiciones distintas. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Pulimento Blanco 500ml.png",
+    "product": "Pulimento Blanco",
+    "presentation": "500ml",
+    "folder": "Pulimento Blanco/500ml",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/lighttrails"
+    ],
+    "review": "Botella completa, contenido blanco, tapa negra y automóvil plateado impreso conservados. Presentación 500 ml visible. Estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Pulimento Rosa 500ml.png",
+    "product": "Pulimento Rosa",
+    "presentation": "500ml",
+    "folder": "Pulimento Rosa/500ml",
+    "styles": [
+      "/ecommerce",
+      "/papercut",
+      "/productpedestal"
+    ],
+    "review": "Botella completa con tapa negra y contenido rosa conservados. Presentación 500 ml y nombre visibles; estilos distintos. Revisión de etiqueta pendiente por microtextos y detalles gráficos; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Pum Shampoo.png",
+    "product": "PUM Easy Cleaning",
+    "presentation": "600ml",
+    "folder": "PUM Easy Cleaning/600ml",
+    "styles": [
+      "/ecommerce",
+      "/monochrome",
+      "/blackluxury"
+    ],
+    "review": "Presentación visible 600 mL / 20.2884 oz. Botella curvada, gatillo completo y líquido amarillo conservados. Revisión de etiqueta pendiente por microtextos inferiores y detalles de asientos y automóvil impresos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Qiuta Gotas 500ml.png",
+    "product": "Quita-Gotas",
+    "presentation": "500ml",
+    "folder": "Quita-Gotas/500ml",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/papercut"
+    ],
+    "review": "Archivo con errata Qiuta; identidad fotografiada Quita-Gotas 500 mL. Botella coral y tapa blanca completas. Antes/Después sólo impreso en etiqueta. Revisión de etiqueta pendiente por microtextos laterales y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Quita Goma 130ml.png",
+    "product": "Quita Goma",
+    "presentation": "130ml",
+    "folder": "Quita Goma/130ml",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/gradient"
+    ],
+    "review": "Frasco completo, atomizador blanco y tapa transparente conservados. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y automóvil impreso; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Quita Gotas 130ml.png",
+    "product": "Quita Gotas",
+    "presentation": "130ml",
+    "folder": "Quita Gotas/130ml",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/papercut"
+    ],
+    "review": "Botella completa coral con tapa blanca. Etiqueta negra roja distinta de la presentación 500 ml, conservada junto con 130 ml. Revisión de etiqueta pendiente por microtextos y detalles del automóvil; blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Repelente de Agua 130ml.png",
+    "product": "Repelente de Agua",
+    "presentation": "130ml",
+    "folder": "Repelente de Agua/130ml",
+    "styles": [
+      "/ecommerce",
+      "/lighttrails",
+      "/colorblock"
+    ],
+    "review": "Frasco completo, tapa negra y contenido azul violeta conservados. Gotas sólo impresas en etiqueta. Identidad y 130 mL visibles. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
   }
 ]

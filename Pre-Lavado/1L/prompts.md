@@ -1,0 +1,15 @@
+
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Conservar exactamente botella transparente cilíndrica alta de referencia, hombros redondeados, cuello estrecho transparente y tapa negra estriada cerrada. Líquido morado muy oscuro hasta hombros, pequeña línea de espuma lila visible dentro, mismo nivel. Etiqueta negra MARGREY rojo blanco, PRE-LAVADO SHAMPOO ALCALINO amarillo, automóvil rojo clásico impreso, textos blancos inferiores y CONT. NET. 1 L. Usar etiqueta como textura fotográfica fija: no redibujar, reescribir, traducir o inventar textos o gráficos. Mantener geometría, proporciones y materiales. Botella completa y etiqueta frontal visible, sin accesorios ni textos extra. Principal ecommerce cuadrada sobre blanco puro uniforme #FFFFFF, producto centrado con márgenes equilibrados, luz uniforme de estudio y sombra suave de contacto. Sin decoraciones exteriores ni pedestal, espuma sólo dentro del envase como referencia.
+
+
+## 02_Creativa.png — /monochrome
+
+Use case: precise-object-edit. Conservar exactamente botella transparente cilíndrica alta de referencia, hombros redondeados, cuello estrecho transparente y tapa negra estriada cerrada. Líquido morado muy oscuro hasta hombros, pequeña línea de espuma lila visible dentro, mismo nivel. Etiqueta negra MARGREY rojo blanco, PRE-LAVADO SHAMPOO ALCALINO amarillo, automóvil rojo clásico impreso, textos blancos inferiores y CONT. NET. 1 L. Usar etiqueta como textura fotográfica fija: no redibujar, reescribir, traducir o inventar textos o gráficos. Mantener geometría, proporciones y materiales. Botella completa y etiqueta frontal visible, sin accesorios ni textos extra. Creativa cuadrada botella en tercio izquierdo sobre suelo gris mate, fondo gris claro con sombra diagonal amplia y suave hacia derecha. Ambiente gris monocromático arquitectónico simple, sin objetos; colores originales de botella y etiqueta intactos. Iluminación frontal envolvente y gran espacio negativo derecho.
+
+
+## 03_Creativa.png — /glassdisplay
+
+Use case: precise-object-edit. Conservar exactamente botella transparente cilíndrica alta de referencia, hombros redondeados, cuello estrecho transparente y tapa negra estriada cerrada. Líquido morado muy oscuro hasta hombros, pequeña línea de espuma lila visible dentro, mismo nivel. Etiqueta negra MARGREY rojo blanco, PRE-LAVADO SHAMPOO ALCALINO amarillo, automóvil rojo clásico impreso, textos blancos inferiores y CONT. NET. 1 L. Usar etiqueta como textura fotográfica fija: no redibujar, reescribir, traducir o inventar textos o gráficos. Mantener geometría, proporciones y materiales. Botella completa y etiqueta frontal visible, sin accesorios ni textos extra. Creativa cuadrada simétrica con botella centrada sobre pedestal cúbico bajo de vidrio transparente, fondo violeta oscuro casi negro, reflejos verticales suaves y suelo satinado oscuro. Etiqueta bien iluminada con luz neutra frontal y bordes delineados. Botella entera 75% altura, no añadir espuma exterior ni otros elementos.

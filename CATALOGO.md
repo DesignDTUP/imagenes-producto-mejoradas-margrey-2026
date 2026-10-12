@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-42/61 portadas con tres imágenes; 126/183 archivos de entrega generados. Trabajo en curso.
+52/61 portadas con tres imágenes; 156/183 archivos de entrega generados. Trabajo en curso.
 
 - [Abrillantador de Pintura QM — 500 mL](Abrillantador%20QM/500ml/README.md): 3/3; revisión pendiente.
 - [Afloja Fácil — 296 mL / 10 oz](Afloja%20F%C3%A1cil/296ml/README.md): 3/3; revisión pendiente.
@@ -43,6 +43,16 @@
 - [Polish Blanco — 300g](Polish%20Blanco/300g/README.md): 3/3; revisión pendiente.
 - [Polish Rojo — 300g](Polish%20Rojo/300g/README.md): 3/3; revisión pendiente.
 - [Polish Rosa — 300g](Polish%20Rosa/300g/README.md): 3/3; revisión pendiente.
+- [Pulimento 3 en 1 — 500ml](Pulimento%203%20en%201/500ml/README.md): 3/3; revisión pendiente.
+- [Pulimento Azul — 500ml](Pulimento%20Azul/500ml/README.md): 3/3; revisión pendiente.
+- [Pulimento Blanco — 500ml](Pulimento%20Blanco/500ml/README.md): 3/3; revisión pendiente.
+- [Pulimento Rosa — 500ml](Pulimento%20Rosa/500ml/README.md): 3/3; revisión pendiente.
+- [PUM Easy Cleaning — 600ml](PUM%20Easy%20Cleaning/600ml/README.md): 3/3; revisión pendiente.
+- [Quita-Gotas — 500ml](Quita-Gotas/500ml/README.md): 3/3; revisión pendiente.
+- [Quita Goma — 130ml](Quita%20Goma/130ml/README.md): 3/3; revisión pendiente.
+- [Quita Gotas — 130ml](Quita%20Gotas/130ml/README.md): 3/3; revisión pendiente.
+- [Repelente de Agua — 130ml](Repelente%20de%20Agua/130ml/README.md): 3/3; revisión pendiente.
 - [Bubble Wash — 1.89L](Bubble%20Wash/1.89L/README.md): 3/3; revisión pendiente.
+- [Pre-Lavado — 1L](Pre-Lavado/1L/README.md): 3/3; revisión pendiente.
 
 [Inventario completo](inventario.csv) · [Pendientes exactos](estado_generacion.json) · [Observaciones](OBSERVACIONES.md)
