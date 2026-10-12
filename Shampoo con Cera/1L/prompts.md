@@ -1,0 +1,15 @@
+
+
+## 01_Ecommerce.png — /ecommerce
+
+Use case: precise-object-edit. Mantener exactamente botella cilíndrica transparente alta de referencia, hombros redondeados y tapa negra estriada, líquido amarillo dorado y nivel visible original. Etiqueta amarilla negra envolvente, logotipos MARGREY rojos blancos, SHAMPOO CON CERA vertical, CONCENTRADO Y CON PROTECCIÓN CARNAUBA, coche rojo impreso, columnas de iconos y textos y QR, Cont. Net. 1L. Aunque archivo dice Platinum no añadir esa palabra ausente de etiqueta. Etiqueta completa textura fotográfica fija incluidos textos de rendimiento y símbolos ya impresos: no reescribir ni inventar ni traducir ni redibujar. Mantener geometría proporciones materiales colores y orientación original. Producto completo y etiqueta visible, sin accesorios ni texto externo. Principal cuadrada fondo blanco puro #FFFFFF uniforme, producto centrado y márgenes equilibrados, iluminación uniforme estudio y sombra contacto tenue sin decoraciones exteriores.
+
+
+## 02_Creativa.png — /productpedestal
+
+Use case: precise-object-edit. Mantener exactamente botella cilíndrica transparente alta de referencia, hombros redondeados y tapa negra estriada, líquido amarillo dorado y nivel visible original. Etiqueta amarilla negra envolvente, logotipos MARGREY rojos blancos, SHAMPOO CON CERA vertical, CONCENTRADO Y CON PROTECCIÓN CARNAUBA, coche rojo impreso, columnas de iconos y textos y QR, Cont. Net. 1L. Aunque archivo dice Platinum no añadir esa palabra ausente de etiqueta. Etiqueta completa textura fotográfica fija incluidos textos de rendimiento y símbolos ya impresos: no reescribir ni inventar ni traducir ni redibujar. Mantener geometría proporciones materiales colores y orientación original. Producto completo y etiqueta visible, sin accesorios ni texto externo. Creativa cuadrada botella a derecha sobre pedestal cilíndrico bajo amarillo mate, fondo gris perla y suelo gris claro. Luz difusa brillante, sombra diagonal suave hacia izquierda, etiqueta visible sin reflejos fuertes, espacio negativo izquierdo.
+
+
+## 03_Creativa.png — /blackluxury
+
+Use case: precise-object-edit. Mantener exactamente botella cilíndrica transparente alta de referencia, hombros redondeados y tapa negra estriada, líquido amarillo dorado y nivel visible original. Etiqueta amarilla negra envolvente, logotipos MARGREY rojos blancos, SHAMPOO CON CERA vertical, CONCENTRADO Y CON PROTECCIÓN CARNAUBA, coche rojo impreso, columnas de iconos y textos y QR, Cont. Net. 1L. Aunque archivo dice Platinum no añadir esa palabra ausente de etiqueta. Etiqueta completa textura fotográfica fija incluidos textos de rendimiento y símbolos ya impresos: no reescribir ni inventar ni traducir ni redibujar. Mantener geometría proporciones materiales colores y orientación original. Producto completo y etiqueta visible, sin accesorios ni texto externo. Creativa cuadrada centrada sobre suelo negro satinado con reflejo suave, fondo negro profundo. Luz frontal neutra amplia y recorte dorado tenue, líquido mantiene amarillo original. Producto completo 78% altura. Sin pedestal, sin objetos ni publicidad.

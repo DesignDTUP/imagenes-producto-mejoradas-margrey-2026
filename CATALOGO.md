@@ -1,6 +1,6 @@
 # Imágenes Producto mejoradas MARGREY 2026
 
-54/61 portadas con tres imágenes; 162/183 archivos de entrega generados. Trabajo en curso.
+56/61 portadas con tres imágenes; 168/183 archivos de entrega generados. Trabajo en curso.
 
 - [Abrillantador de Pintura QM — 500 mL](Abrillantador%20QM/500ml/README.md): 3/3; revisión pendiente.
 - [Afloja Fácil — 296 mL / 10 oz](Afloja%20F%C3%A1cil/296ml/README.md): 3/3; revisión pendiente.
@@ -54,6 +54,8 @@
 - [Repelente de Agua — 130ml](Repelente%20de%20Agua/130ml/README.md): 3/3; revisión pendiente.
 - [Restaurador de Faros — 130ml](Restaurador%20de%20Faros/130ml/README.md): 3/3; revisión pendiente.
 - [Restaurador de Faros — 250ml](Restaurador%20de%20Faros/250ml/README.md): 3/3; revisión pendiente.
+- [Rines Motores y Llantas — 600ml](Rines%20Motores%20y%20Llantas/600ml/README.md): 3/3; revisión pendiente.
+- [Shampoo con Cera — 1L](Shampoo%20con%20Cera/1L/README.md): 3/3; revisión pendiente.
 - [Bubble Wash — 1.89L](Bubble%20Wash/1.89L/README.md): 3/3; revisión pendiente.
 - [Pre-Lavado — 1L](Pre-Lavado/1L/README.md): 3/3; revisión pendiente.
 

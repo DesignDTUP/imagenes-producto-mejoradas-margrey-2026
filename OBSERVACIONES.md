@@ -217,3 +217,11 @@ Frasco completo de cuerpo verde oscuro, tapa negra y etiqueta con automóvil roj
 ## Restaurador de Faros — 250ml
 
 Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Rines Motores y Llantas — 600ml
+
+Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.
+
+## Shampoo con Cera — 1L
+
+El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.

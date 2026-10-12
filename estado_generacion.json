@@ -5,46 +5,10 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 162,
-  "imagenes_publicadas_verificadas": 156,
+  "imagenes_generadas": 168,
+  "imagenes_publicadas_verificadas": 162,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
-    {
-      "referencia": "Rines Motores y Llantas 600ml.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Rines Motores y Llantas 600ml.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Rines Motores y Llantas 600ml.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Shampoo Cera Platinum 1L.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Shampoo Cera Platinum 1L.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Shampoo Cera Platinum 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
     {
       "referencia": "Silicrem 1kg.png",
       "imagen": 1,
@@ -137,8 +101,6 @@
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Rines Motores y Llantas 600ml.png",
-    "Shampoo Cera Platinum 1L.png",
     "Silicrem 1kg.png",
     "Silicrem 300ml.png",
     "Super Corte 250ml.png",
@@ -146,9 +108,9 @@
     "shampoo con cera.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 54,
-  "ultimo_commit_verificado": "c64ad030b47ec09519fce36718a470de0fbef60d",
-  "generaciones_totales_incluidas_correcciones": 164,
+  "portadas_con_tres_imagenes": 56,
+  "ultimo_commit_verificado": "d50616bdd6b0c03c3edb3f5be33ee446ababbbd9",
+  "generaciones_totales_incluidas_correcciones": 170,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -365,6 +327,14 @@
     {
       "referencia": "Restaurador de Faros 250ml.png",
       "observacion": "Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Rines Motores y Llantas 600ml.png",
+      "observacion": "Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce."
+    },
+    {
+      "referencia": "Shampoo Cera Platinum 1L.png",
+      "observacion": "El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
     }
   ]
 }

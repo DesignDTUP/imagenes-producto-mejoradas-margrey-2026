@@ -705,5 +705,31 @@
     ],
     "review": "Botella completa, etiqueta con dos faros impresos y presentación 250 ml conservadas. Texto lateral parcialmente curvado como en referencia. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
     "inspected": true
+  },
+  {
+    "reference": "Rines Motores y Llantas 600ml.png",
+    "product": "Rines Motores y Llantas",
+    "presentation": "600ml",
+    "folder": "Rines Motores y Llantas/600ml",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/papercut"
+    ],
+    "review": "Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de motor, neumático y coche sólo impresos. Revisión de etiqueta pendiente por microtextos y detalles gráficos. Blanco puro pendiente de comprobación. No aprobado para ecommerce.",
+    "inspected": true
+  },
+  {
+    "reference": "Shampoo Cera Platinum 1L.png",
+    "product": "Shampoo con Cera",
+    "presentation": "1L",
+    "folder": "Shampoo con Cera/1L",
+    "styles": [
+      "/ecommerce",
+      "/productpedestal",
+      "/blackluxury"
+    ],
+    "review": "El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.",
+    "inspected": true
   }
 ]
