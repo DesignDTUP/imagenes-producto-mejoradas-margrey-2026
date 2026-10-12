@@ -731,5 +731,31 @@
     ],
     "review": "El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.",
     "inspected": true
+  },
+  {
+    "reference": "shampoo con cera.png",
+    "product": "Shampoo con Cera Carnauba",
+    "presentation": "1L",
+    "folder": "Shampoo con Cera Carnauba/1L",
+    "styles": [
+      "/ecommerce",
+      "/glassdisplay",
+      "/lighttrails"
+    ],
+    "review": "Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de corrección.",
+    "inspected": true
+  },
+  {
+    "reference": "Silicrem 1kg.png",
+    "product": "Silicrem",
+    "presentation": "1kg",
+    "folder": "Silicrem/1kg",
+    "styles": [
+      "/ecommerce",
+      "/gradient",
+      "/lighttrails"
+    ],
+    "review": "Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación.",
+    "inspected": true
   }
 ]

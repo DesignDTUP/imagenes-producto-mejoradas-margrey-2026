@@ -225,3 +225,11 @@ Botella negra y gatillo completos. Nombre y 600 ml conservados; gráficos de mot
 ## Shampoo con Cera — 1L
 
 El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación.
+
+## Shampoo con Cera Carnauba — 1L
+
+Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de corrección.
+
+## Silicrem — 1kg
+
+Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación.

@@ -5,29 +5,11 @@
   "referencias": 61,
   "archivos_auxiliares_macos": 59,
   "portadas_01_Portada": 0,
-  "imagenes_generadas": 168,
-  "imagenes_publicadas_verificadas": 162,
+  "imagenes_generadas": 174,
+  "imagenes_publicadas_verificadas": 168,
   "repositorio": "https://github.com/DesignDTUP/imagenes-producto-mejoradas-margrey-2026",
   "pendientes_generacion": [
     {
-      "referencia": "Silicrem 1kg.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Silicrem 1kg.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "Silicrem 1kg.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
       "referencia": "Silicrem 300ml.png",
       "imagen": 1,
       "archivo": "01_Ecommerce.png",
@@ -77,40 +59,20 @@
     },
     {
       "referencia": "Wiper Cleaner 1L.png",
-      "imagen": 3,
-      "archivo": "03_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "shampoo con cera.png",
-      "imagen": 1,
-      "archivo": "01_Ecommerce.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "shampoo con cera.png",
-      "imagen": 2,
-      "archivo": "02_Creativa.png",
-      "carpeta_pendiente_inspeccion": true
-    },
-    {
-      "referencia": "shampoo con cera.png",
       "imagen": 3,
       "archivo": "03_Creativa.png",
       "carpeta_pendiente_inspeccion": true
     }
   ],
   "referencias_pendientes_de_clasificar": [
-    "Silicrem 1kg.png",
     "Silicrem 300ml.png",
     "Super Corte 250ml.png",
-    "Wiper Cleaner 1L.png",
-    "shampoo con cera.png"
+    "Wiper Cleaner 1L.png"
   ],
   "imagenes_objetivo": 183,
-  "portadas_con_tres_imagenes": 56,
-  "ultimo_commit_verificado": "d50616bdd6b0c03c3edb3f5be33ee446ababbbd9",
-  "generaciones_totales_incluidas_correcciones": 170,
+  "portadas_con_tres_imagenes": 58,
+  "ultimo_commit_verificado": "5d8e971d29ded9c3aed36f8e676fc75c334205b9",
+  "generaciones_totales_incluidas_correcciones": 176,
   "revisiones_pendientes": [
     {
       "referencia": "Abrillantador QM 500ml.png",
@@ -335,6 +297,14 @@
     {
       "referencia": "Shampoo Cera Platinum 1L.png",
       "observacion": "El archivo indica Platinum, pero la etiqueta fotografiada dice SHAMPOO CON CERA; se conserva la identidad fotografiada. Variaciones en textos pequeños, iconos y QR: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de comprobación."
+    },
+    {
+      "referencia": "shampoo con cera.png",
+      "observacion": "Referencia distinta del shampoo amarillo: líquido crema, tapa lisa alta y automóvil clásico rojo. Se conserva esta identidad y carpeta independiente. Variaciones del texto pequeño y del automóvil impreso: revisión de etiqueta pendiente. Fondo blanco exacto pendiente de corrección."
+    },
+    {
+      "referencia": "Silicrem 1kg.png",
+      "observacion": "Envase negro de 1 kg y etiqueta roja, negra y plateada conservados como identidad. Variaciones en instrucciones laterales, código de barras y detalles impresos: revisión de etiqueta pendiente. No extrapolar las afirmaciones impresas fuera de la etiqueta. Fondo blanco exacto pendiente de comprobación."
     }
   ]
 }
